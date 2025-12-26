@@ -1,0 +1,2001 @@
+product_id,brand,category,rating,review_text,review_date
+100001,Samsung,Home,3.9,Highly recommended,2025-11-26
+100002,Samsung,Home,3.1,Works perfectly,2025-10-29
+100003,Boat,Appliances,4.2,Stopped working quickly,2025-11-30
+100004,HP,Home,4.1,Bad experience,2025-11-15
+100005,Boat,Home,4.4,"Excellent product, very satisfied",2025-12-03
+100006,Dell,Appliances,4.3,Stopped working quickly,2025-11-15
+100007,Apple,Electronics,3.9,Poor quality,2025-12-07
+100008,HP,Home,4.2,Poor quality,2025-11-01
+100009,Dell,Home,4.6,Product is okay,2025-12-23
+100010,LG,Electronics,4.9,Very disappointed,2025-12-15
+100011,Sony,Appliances,4.6,Worth the money,2025-11-02
+100012,LG,Fashion,3.1,Worth the money,2025-10-29
+100013,Dell,Appliances,4.4,Meets expectations,2025-11-26
+100014,Nike,Appliances,3.3,Not worth the price,2025-12-25
+100015,Puma,Fashion,4.9,Highly recommended,2025-11-23
+100016,LG,Electronics,4.3,"Not bad, not great",2025-12-04
+100017,Sony,Home,4.7,Highly recommended,2025-12-25
+100018,Boat,Electronics,2.7,Meets expectations,2025-12-16
+100019,Apple,Appliances,4.4,Very disappointed,2025-12-24
+100020,Dell,Fashion,3.5,Quality is really good,2025-11-20
+100021,Boat,Appliances,2.8,Not worth the price,2025-11-14
+100022,Nike,Appliances,4.8,Highly recommended,2025-10-26
+100023,HP,Home,3.9,Stopped working quickly,2025-10-29
+100024,HP,Home,4.3,Meets expectations,2025-11-08
+100025,Puma,Appliances,3.5,Highly recommended,2025-11-05
+100026,Boat,Home,4.9,Highly recommended,2025-12-06
+100027,Samsung,Electronics,4.6,Meets expectations,2025-12-09
+100028,Dell,Electronics,4.9,Bad experience,2025-11-21
+100029,Apple,Appliances,2.9,Highly recommended,2025-12-14
+100030,Puma,Home,4.4,Meets expectations,2025-11-25
+100031,HP,Home,3.4,Very disappointed,2025-11-08
+100032,Puma,Electronics,3.3,"Excellent product, very satisfied",2025-11-03
+100033,Boat,Appliances,4.5,Quality is really good,2025-11-24
+100034,Nike,Appliances,4.9,Quality is really good,2025-10-31
+100035,LG,Home,4.9,"Not bad, not great",2025-11-30
+100036,Dell,Electronics,3.4,"Not bad, not great",2025-12-24
+100037,Puma,Fashion,3.4,Product is okay,2025-11-30
+100038,Nike,Fashion,4.5,Poor quality,2025-11-27
+100039,Apple,Appliances,4.7,Quality is really good,2025-12-12
+100040,HP,Electronics,3.0,Poor quality,2025-12-10
+100041,LG,Fashion,4.0,Poor quality,2025-12-24
+100042,Dell,Home,3.1,Bad experience,2025-11-18
+100043,Dell,Home,4.8,"Excellent product, very satisfied",2025-11-04
+100044,Sony,Electronics,4.4,Average quality,2025-12-04
+100045,Nike,Appliances,3.0,Quality is really good,2025-11-09
+100046,Dell,Electronics,3.0,"Not bad, not great",2025-12-17
+100047,Puma,Fashion,4.7,Works perfectly,2025-12-06
+100048,Nike,Electronics,4.8,Not worth the price,2025-11-23
+100049,Samsung,Appliances,3.7,Average quality,2025-11-10
+100050,LG,Fashion,4.4,"Excellent product, very satisfied",2025-12-03
+100051,LG,Electronics,3.8,Stopped working quickly,2025-11-06
+100052,Puma,Appliances,4.9,Very disappointed,2025-11-16
+100053,LG,Fashion,3.4,Bad experience,2025-11-02
+100054,Dell,Fashion,2.5,"Excellent product, very satisfied",2025-10-30
+100055,Boat,Home,4.5,Not worth the price,2025-12-05
+100056,Apple,Appliances,2.7,Product is okay,2025-12-18
+100057,Samsung,Appliances,5.0,"Excellent product, very satisfied",2025-11-03
+100058,LG,Home,4.7,Works perfectly,2025-12-17
+100059,Apple,Fashion,3.1,Quality is really good,2025-11-05
+100060,Sony,Home,2.5,Very disappointed,2025-11-30
+100061,Puma,Electronics,4.6,"Excellent product, very satisfied",2025-11-07
+100062,LG,Fashion,4.6,Highly recommended,2025-11-02
+100063,Sony,Appliances,4.0,Decent for the price,2025-12-04
+100064,LG,Fashion,3.3,Quality is really good,2025-11-03
+100065,HP,Appliances,2.8,Bad experience,2025-12-15
+100066,LG,Home,3.2,Quality is really good,2025-11-10
+100067,Apple,Appliances,3.1,Decent for the price,2025-11-15
+100068,HP,Home,3.8,Works perfectly,2025-10-29
+100069,Boat,Appliances,3.1,Average quality,2025-10-29
+100070,Samsung,Fashion,4.1,Stopped working quickly,2025-12-07
+100071,Dell,Appliances,3.2,Decent for the price,2025-12-15
+100072,HP,Fashion,3.7,Product is okay,2025-12-04
+100073,Apple,Electronics,4.2,Poor quality,2025-11-20
+100074,LG,Appliances,3.2,Average quality,2025-12-25
+100075,Apple,Electronics,4.8,"Not bad, not great",2025-11-07
+100076,HP,Home,3.4,Quality is really good,2025-11-11
+100077,Samsung,Electronics,3.0,"Excellent product, very satisfied",2025-12-22
+100078,Apple,Appliances,4.9,Decent for the price,2025-12-09
+100079,Apple,Home,2.8,"Not bad, not great",2025-12-24
+100080,Samsung,Electronics,4.9,Meets expectations,2025-12-17
+100081,Samsung,Electronics,4.3,Works perfectly,2025-10-27
+100082,Apple,Electronics,4.5,Quality is really good,2025-12-04
+100083,Nike,Home,2.9,Stopped working quickly,2025-12-14
+100084,Sony,Home,3.7,Decent for the price,2025-11-03
+100085,HP,Electronics,4.7,Decent for the price,2025-11-07
+100086,Samsung,Fashion,3.8,Stopped working quickly,2025-11-17
+100087,Apple,Fashion,3.6,Highly recommended,2025-12-10
+100088,LG,Home,4.3,Worth the money,2025-10-27
+100089,Apple,Home,4.5,Very disappointed,2025-12-16
+100090,Boat,Home,3.2,Bad experience,2025-11-29
+100091,Sony,Home,3.2,Stopped working quickly,2025-12-02
+100092,Nike,Home,3.4,Bad experience,2025-11-15
+100093,Sony,Fashion,2.5,Stopped working quickly,2025-12-13
+100094,Puma,Electronics,4.5,Worth the money,2025-12-24
+100095,Samsung,Electronics,2.5,Meets expectations,2025-11-28
+100096,Puma,Electronics,4.4,Average quality,2025-12-07
+100097,Apple,Appliances,4.2,"Not bad, not great",2025-11-11
+100098,Nike,Appliances,4.3,Bad experience,2025-12-14
+100099,Apple,Home,3.6,Bad experience,2025-11-25
+100100,Dell,Fashion,3.6,Stopped working quickly,2025-12-24
+100101,Apple,Home,3.7,Highly recommended,2025-11-20
+100102,Boat,Appliances,3.0,Stopped working quickly,2025-11-26
+100103,Samsung,Fashion,3.9,Quality is really good,2025-12-18
+100104,Puma,Fashion,4.8,Quality is really good,2025-12-16
+100105,Apple,Appliances,3.8,Product is okay,2025-10-28
+100106,Apple,Appliances,3.1,Bad experience,2025-12-10
+100107,Samsung,Appliances,3.1,Highly recommended,2025-11-12
+100108,Dell,Electronics,3.4,Very disappointed,2025-12-25
+100109,Boat,Electronics,3.7,Product is okay,2025-11-24
+100110,LG,Home,3.7,Very disappointed,2025-11-26
+100111,Puma,Appliances,2.9,Not worth the price,2025-11-08
+100112,Apple,Home,3.7,Highly recommended,2025-10-29
+100113,Sony,Fashion,3.0,Very disappointed,2025-10-30
+100114,LG,Fashion,4.2,Product is okay,2025-11-23
+100115,Boat,Electronics,4.4,Poor quality,2025-12-07
+100116,Boat,Electronics,3.1,Average quality,2025-11-27
+100117,Dell,Home,2.8,Quality is really good,2025-12-25
+100118,Apple,Appliances,3.4,Meets expectations,2025-11-14
+100119,LG,Home,4.1,Decent for the price,2025-10-28
+100120,Sony,Electronics,4.2,Product is okay,2025-12-21
+100121,Nike,Appliances,5.0,Not worth the price,2025-12-23
+100122,LG,Electronics,3.4,Meets expectations,2025-11-24
+100123,LG,Home,3.7,Bad experience,2025-12-08
+100124,Samsung,Electronics,3.6,Decent for the price,2025-12-25
+100125,Apple,Electronics,3.7,Product is okay,2025-11-04
+100126,HP,Home,4.9,Highly recommended,2025-12-20
+100127,Boat,Electronics,2.9,Worth the money,2025-11-27
+100128,Dell,Electronics,3.3,Works perfectly,2025-11-14
+100129,HP,Appliances,3.1,Very disappointed,2025-12-02
+100130,HP,Home,2.6,Very disappointed,2025-12-20
+100131,Puma,Home,2.8,Works perfectly,2025-10-28
+100132,Samsung,Fashion,4.9,Quality is really good,2025-12-23
+100133,Nike,Fashion,4.5,Product is okay,2025-12-20
+100134,Sony,Appliances,3.6,Quality is really good,2025-12-22
+100135,HP,Electronics,4.9,Highly recommended,2025-12-09
+100136,Sony,Appliances,2.5,Works perfectly,2025-11-17
+100137,Apple,Home,3.6,Bad experience,2025-11-21
+100138,HP,Appliances,3.3,Works perfectly,2025-12-02
+100139,Samsung,Fashion,2.8,Bad experience,2025-11-20
+100140,LG,Electronics,2.6,Bad experience,2025-11-29
+100141,Boat,Appliances,4.9,"Excellent product, very satisfied",2025-11-04
+100142,LG,Appliances,5.0,Worth the money,2025-10-26
+100143,Puma,Fashion,3.7,Product is okay,2025-11-02
+100144,Nike,Home,4.6,Decent for the price,2025-12-14
+100145,Puma,Electronics,4.9,Poor quality,2025-11-10
+100146,Apple,Home,4.7,Poor quality,2025-11-08
+100147,Boat,Appliances,2.9,Product is okay,2025-12-20
+100148,Sony,Appliances,4.3,Average quality,2025-11-05
+100149,Sony,Electronics,3.1,Worth the money,2025-12-14
+100150,LG,Home,4.8,Worth the money,2025-11-27
+100151,Boat,Appliances,4.0,Not worth the price,2025-10-30
+100152,LG,Appliances,3.5,"Not bad, not great",2025-10-26
+100153,HP,Electronics,4.7,Works perfectly,2025-12-21
+100154,Nike,Home,4.7,Meets expectations,2025-11-12
+100155,HP,Home,3.3,Poor quality,2025-11-12
+100156,LG,Electronics,2.7,Poor quality,2025-11-18
+100157,Sony,Fashion,4.9,Very disappointed,2025-11-22
+100158,Dell,Home,3.2,Very disappointed,2025-11-26
+100159,Boat,Appliances,4.6,Highly recommended,2025-10-30
+100160,Apple,Fashion,4.4,"Not bad, not great",2025-11-15
+100161,Boat,Home,3.7,Decent for the price,2025-10-31
+100162,HP,Home,4.7,Average quality,2025-10-26
+100163,Apple,Home,4.4,Poor quality,2025-11-14
+100164,Sony,Fashion,4.9,Worth the money,2025-12-08
+100165,Apple,Appliances,2.8,Stopped working quickly,2025-12-22
+100166,LG,Electronics,3.3,Works perfectly,2025-12-13
+100167,Dell,Appliances,4.6,Worth the money,2025-12-04
+100168,Puma,Fashion,3.6,Meets expectations,2025-11-19
+100169,Dell,Appliances,4.5,Works perfectly,2025-11-17
+100170,Apple,Home,4.3,Works perfectly,2025-11-11
+100171,Sony,Fashion,3.6,Decent for the price,2025-12-23
+100172,Sony,Electronics,4.3,Stopped working quickly,2025-11-13
+100173,Boat,Appliances,4.2,Worth the money,2025-11-20
+100174,Boat,Electronics,2.9,Average quality,2025-11-24
+100175,HP,Appliances,3.0,Works perfectly,2025-11-02
+100176,Dell,Fashion,2.5,"Excellent product, very satisfied",2025-11-27
+100177,Samsung,Appliances,4.1,Not worth the price,2025-11-03
+100178,Dell,Appliances,4.6,Average quality,2025-12-07
+100179,Apple,Electronics,2.9,Average quality,2025-12-14
+100180,Boat,Electronics,4.7,"Excellent product, very satisfied",2025-11-28
+100181,HP,Home,3.5,Very disappointed,2025-11-29
+100182,HP,Electronics,4.4,"Not bad, not great",2025-12-08
+100183,HP,Home,4.2,Highly recommended,2025-11-01
+100184,Apple,Home,4.9,"Not bad, not great",2025-10-29
+100185,Dell,Electronics,3.0,Decent for the price,2025-12-24
+100186,HP,Home,4.9,Product is okay,2025-12-19
+100187,Dell,Electronics,4.0,Works perfectly,2025-11-16
+100188,LG,Electronics,2.6,"Excellent product, very satisfied",2025-11-30
+100189,Apple,Electronics,4.5,Very disappointed,2025-11-08
+100190,LG,Appliances,3.2,Very disappointed,2025-12-04
+100191,Boat,Appliances,4.3,Decent for the price,2025-11-04
+100192,Dell,Electronics,2.5,Meets expectations,2025-11-25
+100193,Sony,Fashion,2.9,Bad experience,2025-11-04
+100194,Samsung,Appliances,4.7,Decent for the price,2025-12-20
+100195,Nike,Electronics,4.8,"Not bad, not great",2025-11-11
+100196,Apple,Home,3.5,Meets expectations,2025-11-23
+100197,HP,Appliances,4.4,Average quality,2025-12-13
+100198,Apple,Fashion,4.0,Quality is really good,2025-11-18
+100199,Puma,Home,3.7,"Not bad, not great",2025-11-20
+100200,Nike,Electronics,4.4,"Not bad, not great",2025-12-25
+100201,Boat,Home,4.1,Quality is really good,2025-12-10
+100202,LG,Appliances,3.5,Quality is really good,2025-11-06
+100203,HP,Fashion,3.6,Highly recommended,2025-12-16
+100204,Puma,Electronics,3.8,Poor quality,2025-10-26
+100205,Samsung,Fashion,2.6,Very disappointed,2025-12-23
+100206,Boat,Fashion,2.9,Bad experience,2025-11-22
+100207,Boat,Electronics,3.6,Decent for the price,2025-11-27
+100208,Sony,Home,4.6,Worth the money,2025-12-10
+100209,Dell,Appliances,2.9,Meets expectations,2025-10-28
+100210,Apple,Electronics,3.8,Highly recommended,2025-12-25
+100211,Boat,Home,4.9,Average quality,2025-10-28
+100212,Boat,Home,2.9,Poor quality,2025-11-16
+100213,Apple,Appliances,4.2,Stopped working quickly,2025-12-07
+100214,Apple,Appliances,4.1,Stopped working quickly,2025-11-09
+100215,Nike,Fashion,2.7,Bad experience,2025-12-18
+100216,HP,Fashion,3.6,Poor quality,2025-11-25
+100217,LG,Fashion,2.7,Bad experience,2025-11-06
+100218,Sony,Home,2.8,Meets expectations,2025-12-24
+100219,LG,Fashion,4.4,Worth the money,2025-12-07
+100220,Boat,Appliances,3.8,Not worth the price,2025-11-16
+100221,Sony,Home,4.5,"Not bad, not great",2025-11-16
+100222,Puma,Fashion,3.8,Stopped working quickly,2025-11-19
+100223,Nike,Appliances,3.8,Highly recommended,2025-11-26
+100224,LG,Fashion,4.6,Stopped working quickly,2025-11-29
+100225,Sony,Home,3.0,Stopped working quickly,2025-11-28
+100226,Nike,Electronics,3.5,"Excellent product, very satisfied",2025-11-07
+100227,LG,Electronics,5.0,"Excellent product, very satisfied",2025-11-13
+100228,Apple,Appliances,2.8,Works perfectly,2025-12-15
+100229,LG,Home,4.4,"Excellent product, very satisfied",2025-10-26
+100230,HP,Fashion,3.0,Highly recommended,2025-11-13
+100231,Puma,Electronics,4.1,Very disappointed,2025-11-02
+100232,Boat,Fashion,3.1,Decent for the price,2025-12-07
+100233,Sony,Home,4.8,Not worth the price,2025-11-11
+100234,Sony,Fashion,4.6,Meets expectations,2025-12-24
+100235,Nike,Fashion,4.3,Decent for the price,2025-12-07
+100236,Puma,Appliances,4.4,Product is okay,2025-11-11
+100237,Boat,Fashion,5.0,Quality is really good,2025-12-16
+100238,HP,Electronics,2.6,Stopped working quickly,2025-12-25
+100239,Nike,Home,4.7,Quality is really good,2025-11-28
+100240,LG,Fashion,3.3,Works perfectly,2025-11-18
+100241,Puma,Home,4.9,Decent for the price,2025-11-23
+100242,Nike,Home,2.6,Highly recommended,2025-12-11
+100243,Boat,Electronics,4.9,Meets expectations,2025-11-06
+100244,LG,Appliances,4.9,Quality is really good,2025-12-08
+100245,HP,Appliances,2.8,"Not bad, not great",2025-11-24
+100246,Puma,Home,4.7,Highly recommended,2025-12-20
+100247,Boat,Home,4.6,Quality is really good,2025-11-25
+100248,Puma,Home,3.1,Highly recommended,2025-12-20
+100249,Apple,Electronics,3.4,Product is okay,2025-11-20
+100250,Dell,Home,4.1,Product is okay,2025-12-18
+100251,Dell,Home,3.0,Poor quality,2025-11-13
+100252,Puma,Electronics,3.8,Not worth the price,2025-10-26
+100253,Sony,Electronics,3.3,Product is okay,2025-12-25
+100254,Apple,Fashion,3.1,"Excellent product, very satisfied",2025-11-11
+100255,HP,Appliances,2.6,Stopped working quickly,2025-11-21
+100256,Samsung,Appliances,3.8,Stopped working quickly,2025-12-21
+100257,HP,Home,3.2,Bad experience,2025-11-18
+100258,HP,Home,3.6,"Not bad, not great",2025-11-07
+100259,Boat,Electronics,3.6,Not worth the price,2025-12-12
+100260,LG,Fashion,4.2,Quality is really good,2025-11-11
+100261,Samsung,Fashion,2.6,Quality is really good,2025-11-20
+100262,Samsung,Fashion,4.4,Average quality,2025-12-25
+100263,Apple,Fashion,3.6,Average quality,2025-12-20
+100264,Boat,Home,3.1,Meets expectations,2025-11-22
+100265,Dell,Fashion,3.7,"Not bad, not great",2025-11-23
+100266,Nike,Fashion,3.5,Bad experience,2025-12-22
+100267,Samsung,Electronics,3.6,"Excellent product, very satisfied",2025-11-14
+100268,Puma,Home,3.1,Poor quality,2025-12-08
+100269,Boat,Home,2.9,Poor quality,2025-12-08
+100270,Apple,Home,2.9,Works perfectly,2025-11-03
+100271,Nike,Home,4.7,Works perfectly,2025-12-15
+100272,Sony,Home,2.6,Quality is really good,2025-12-10
+100273,Boat,Home,2.6,Worth the money,2025-10-27
+100274,Nike,Appliances,4.8,Highly recommended,2025-11-06
+100275,Boat,Appliances,4.3,Meets expectations,2025-11-14
+100276,LG,Electronics,3.1,"Not bad, not great",2025-11-11
+100277,Nike,Home,4.6,Bad experience,2025-11-02
+100278,Puma,Electronics,3.2,"Not bad, not great",2025-11-18
+100279,LG,Appliances,5.0,Bad experience,2025-11-15
+100280,Dell,Appliances,3.6,Product is okay,2025-11-24
+100281,Samsung,Fashion,2.6,"Excellent product, very satisfied",2025-12-10
+100282,Boat,Home,3.7,Average quality,2025-12-08
+100283,Sony,Home,3.3,"Excellent product, very satisfied",2025-11-17
+100284,Apple,Fashion,3.2,Product is okay,2025-11-25
+100285,Samsung,Home,3.8,Product is okay,2025-10-26
+100286,Apple,Home,4.4,"Excellent product, very satisfied",2025-12-04
+100287,Apple,Electronics,4.0,Meets expectations,2025-11-25
+100288,LG,Appliances,3.5,Very disappointed,2025-11-21
+100289,Boat,Electronics,3.4,"Not bad, not great",2025-12-21
+100290,Dell,Fashion,4.1,Decent for the price,2025-12-11
+100291,HP,Appliances,4.2,Highly recommended,2025-11-04
+100292,Nike,Appliances,3.0,Worth the money,2025-11-04
+100293,HP,Appliances,4.8,Product is okay,2025-12-10
+100294,Dell,Appliances,4.7,Stopped working quickly,2025-11-22
+100295,Dell,Fashion,2.6,Works perfectly,2025-12-11
+100296,Nike,Home,4.5,Very disappointed,2025-11-02
+100297,LG,Electronics,4.0,Quality is really good,2025-11-03
+100298,HP,Appliances,2.9,"Not bad, not great",2025-11-15
+100299,HP,Electronics,3.9,Worth the money,2025-12-17
+100300,Sony,Home,2.6,Not worth the price,2025-12-05
+100301,HP,Home,3.4,Not worth the price,2025-11-17
+100302,Apple,Appliances,3.6,Poor quality,2025-11-29
+100303,LG,Home,3.5,Works perfectly,2025-12-17
+100304,Samsung,Home,4.2,Product is okay,2025-11-28
+100305,Nike,Appliances,4.8,Quality is really good,2025-11-30
+100306,HP,Home,2.8,Average quality,2025-12-25
+100307,Puma,Home,3.0,Average quality,2025-11-29
+100308,Apple,Fashion,4.1,"Not bad, not great",2025-11-21
+100309,Apple,Electronics,4.2,Worth the money,2025-12-07
+100310,Samsung,Home,4.7,Meets expectations,2025-12-14
+100311,Boat,Fashion,4.7,Poor quality,2025-11-27
+100312,Boat,Fashion,3.8,Meets expectations,2025-12-04
+100313,HP,Electronics,3.0,Meets expectations,2025-11-20
+100314,Samsung,Home,4.0,Meets expectations,2025-11-10
+100315,HP,Electronics,4.5,Bad experience,2025-11-30
+100316,Dell,Electronics,3.1,Poor quality,2025-11-09
+100317,Samsung,Electronics,4.8,Quality is really good,2025-11-04
+100318,Sony,Appliances,4.3,Meets expectations,2025-12-07
+100319,Nike,Appliances,4.9,Not worth the price,2025-11-23
+100320,Sony,Fashion,2.5,Bad experience,2025-12-20
+100321,Apple,Fashion,4.2,Poor quality,2025-11-05
+100322,Samsung,Appliances,4.1,Decent for the price,2025-11-04
+100323,Samsung,Home,5.0,Meets expectations,2025-11-21
+100324,LG,Fashion,2.6,"Excellent product, very satisfied",2025-11-06
+100325,Dell,Appliances,4.9,Bad experience,2025-11-16
+100326,Apple,Home,3.1,Poor quality,2025-11-23
+100327,Sony,Electronics,4.5,"Excellent product, very satisfied",2025-12-11
+100328,Sony,Home,4.2,Highly recommended,2025-11-18
+100329,Apple,Fashion,2.9,Meets expectations,2025-10-31
+100330,Sony,Electronics,3.7,Decent for the price,2025-12-01
+100331,Apple,Home,3.7,Meets expectations,2025-11-25
+100332,Boat,Electronics,3.9,Quality is really good,2025-12-18
+100333,Dell,Home,3.4,"Excellent product, very satisfied",2025-12-12
+100334,Sony,Electronics,4.0,Quality is really good,2025-12-22
+100335,HP,Electronics,4.9,"Excellent product, very satisfied",2025-12-14
+100336,Samsung,Home,4.8,Not worth the price,2025-11-01
+100337,Apple,Electronics,4.4,Stopped working quickly,2025-12-14
+100338,Sony,Home,3.4,"Excellent product, very satisfied",2025-11-14
+100339,Samsung,Appliances,2.7,Very disappointed,2025-12-02
+100340,HP,Home,4.0,Meets expectations,2025-11-18
+100341,Nike,Electronics,2.6,Very disappointed,2025-11-05
+100342,Sony,Electronics,2.9,Stopped working quickly,2025-12-14
+100343,Sony,Appliances,3.1,Quality is really good,2025-11-23
+100344,Dell,Fashion,3.4,Meets expectations,2025-10-27
+100345,Apple,Fashion,3.8,Very disappointed,2025-11-16
+100346,Boat,Electronics,2.8,Stopped working quickly,2025-12-21
+100347,LG,Home,4.2,Very disappointed,2025-11-25
+100348,HP,Home,3.1,Stopped working quickly,2025-12-14
+100349,Nike,Appliances,3.2,"Not bad, not great",2025-12-07
+100350,Sony,Home,2.9,Meets expectations,2025-11-08
+100351,HP,Electronics,4.6,Meets expectations,2025-11-18
+100352,HP,Appliances,4.5,Meets expectations,2025-11-21
+100353,LG,Home,2.6,"Excellent product, very satisfied",2025-12-10
+100354,Apple,Appliances,3.2,Bad experience,2025-11-09
+100355,Boat,Electronics,3.8,"Excellent product, very satisfied",2025-11-13
+100356,Samsung,Fashion,4.4,Meets expectations,2025-12-22
+100357,Boat,Fashion,4.0,Works perfectly,2025-12-02
+100358,HP,Home,3.2,Poor quality,2025-12-04
+100359,Samsung,Fashion,4.4,"Not bad, not great",2025-11-14
+100360,Puma,Fashion,3.8,Product is okay,2025-11-22
+100361,LG,Fashion,2.5,"Excellent product, very satisfied",2025-12-20
+100362,Sony,Appliances,3.7,Highly recommended,2025-11-26
+100363,Boat,Electronics,4.0,Quality is really good,2025-10-30
+100364,Nike,Appliances,3.5,Not worth the price,2025-12-20
+100365,Nike,Appliances,3.1,Not worth the price,2025-12-14
+100366,LG,Appliances,3.2,Works perfectly,2025-12-11
+100367,Apple,Fashion,4.2,Stopped working quickly,2025-11-12
+100368,Boat,Home,4.4,Stopped working quickly,2025-11-12
+100369,Puma,Appliances,4.5,"Excellent product, very satisfied",2025-11-02
+100370,Boat,Appliances,2.9,Decent for the price,2025-12-25
+100371,Samsung,Fashion,5.0,Highly recommended,2025-11-08
+100372,Nike,Fashion,3.4,"Not bad, not great",2025-12-10
+100373,Samsung,Home,2.7,Poor quality,2025-11-19
+100374,Puma,Electronics,4.6,Highly recommended,2025-12-02
+100375,Puma,Home,3.1,Bad experience,2025-11-11
+100376,Apple,Electronics,5.0,Not worth the price,2025-12-06
+100377,Samsung,Fashion,4.4,"Excellent product, very satisfied",2025-12-16
+100378,Apple,Fashion,2.6,Stopped working quickly,2025-11-11
+100379,Boat,Appliances,2.6,Decent for the price,2025-12-02
+100380,LG,Fashion,4.2,Product is okay,2025-12-23
+100381,HP,Electronics,4.1,"Not bad, not great",2025-12-07
+100382,HP,Electronics,3.0,Stopped working quickly,2025-11-28
+100383,Puma,Home,4.1,Stopped working quickly,2025-11-24
+100384,Boat,Fashion,2.7,Bad experience,2025-12-03
+100385,Boat,Fashion,3.2,Worth the money,2025-11-24
+100386,Nike,Electronics,2.9,Worth the money,2025-12-11
+100387,LG,Home,3.5,Very disappointed,2025-11-03
+100388,Dell,Electronics,3.8,Poor quality,2025-12-02
+100389,Samsung,Appliances,3.9,"Not bad, not great",2025-11-04
+100390,Boat,Appliances,4.3,Stopped working quickly,2025-12-12
+100391,Apple,Electronics,2.8,Works perfectly,2025-12-05
+100392,Sony,Home,3.6,Bad experience,2025-11-09
+100393,LG,Appliances,3.6,Very disappointed,2025-11-24
+100394,Nike,Electronics,2.8,Not worth the price,2025-11-06
+100395,Dell,Electronics,4.9,Quality is really good,2025-11-20
+100396,Samsung,Electronics,4.9,Poor quality,2025-11-30
+100397,Boat,Appliances,4.1,Stopped working quickly,2025-12-23
+100398,Apple,Fashion,3.8,Product is okay,2025-12-08
+100399,Boat,Electronics,4.8,Quality is really good,2025-11-08
+100400,Puma,Fashion,3.5,Worth the money,2025-12-21
+100401,Boat,Fashion,4.0,Decent for the price,2025-12-02
+100402,Apple,Appliances,2.7,Very disappointed,2025-12-08
+100403,Sony,Appliances,2.6,"Excellent product, very satisfied",2025-10-26
+100404,Puma,Fashion,3.8,Highly recommended,2025-12-25
+100405,HP,Appliances,3.9,Bad experience,2025-12-22
+100406,HP,Appliances,4.4,Product is okay,2025-12-07
+100407,Samsung,Fashion,3.9,Stopped working quickly,2025-11-30
+100408,Sony,Appliances,4.5,Quality is really good,2025-11-29
+100409,Sony,Fashion,2.6,Poor quality,2025-11-01
+100410,Apple,Home,3.6,Works perfectly,2025-12-07
+100411,Samsung,Fashion,4.9,Poor quality,2025-12-12
+100412,Boat,Appliances,3.7,Works perfectly,2025-12-09
+100413,Samsung,Home,4.9,Meets expectations,2025-11-19
+100414,HP,Appliances,3.7,Bad experience,2025-11-21
+100415,Dell,Electronics,4.8,Stopped working quickly,2025-11-13
+100416,Apple,Home,3.1,Worth the money,2025-12-21
+100417,Puma,Home,3.4,Worth the money,2025-12-02
+100418,Apple,Appliances,3.6,Product is okay,2025-12-25
+100419,Sony,Electronics,4.9,Works perfectly,2025-11-01
+100420,Puma,Appliances,2.8,Product is okay,2025-11-23
+100421,Samsung,Electronics,4.0,Meets expectations,2025-12-15
+100422,HP,Fashion,4.9,"Excellent product, very satisfied",2025-12-06
+100423,Nike,Fashion,3.1,Poor quality,2025-12-11
+100424,Boat,Home,4.6,Quality is really good,2025-10-29
+100425,Apple,Fashion,4.2,Stopped working quickly,2025-12-08
+100426,HP,Fashion,4.4,Not worth the price,2025-11-01
+100427,Dell,Home,4.9,"Not bad, not great",2025-10-30
+100428,LG,Electronics,3.8,Stopped working quickly,2025-11-19
+100429,HP,Electronics,3.6,Poor quality,2025-12-17
+100430,HP,Fashion,3.5,Works perfectly,2025-12-24
+100431,Puma,Fashion,3.9,Decent for the price,2025-12-09
+100432,Puma,Appliances,3.5,"Excellent product, very satisfied",2025-12-11
+100433,Samsung,Electronics,4.9,Meets expectations,2025-10-26
+100434,HP,Home,3.7,Meets expectations,2025-11-26
+100435,Samsung,Home,2.8,Poor quality,2025-12-24
+100436,Sony,Home,3.1,Stopped working quickly,2025-11-13
+100437,Dell,Fashion,4.0,Not worth the price,2025-12-14
+100438,Samsung,Appliances,4.4,"Excellent product, very satisfied",2025-12-19
+100439,Dell,Electronics,4.8,Highly recommended,2025-12-19
+100440,Apple,Home,4.8,Very disappointed,2025-11-20
+100441,Puma,Home,2.9,Average quality,2025-11-29
+100442,Dell,Electronics,4.1,Poor quality,2025-10-29
+100443,Boat,Fashion,2.8,Product is okay,2025-11-08
+100444,Boat,Fashion,4.9,Quality is really good,2025-12-10
+100445,Sony,Electronics,3.9,Stopped working quickly,2025-12-04
+100446,Nike,Appliances,4.6,"Excellent product, very satisfied",2025-11-17
+100447,Dell,Electronics,2.9,Stopped working quickly,2025-11-26
+100448,Samsung,Appliances,4.8,Worth the money,2025-10-26
+100449,Puma,Electronics,2.5,"Not bad, not great",2025-12-22
+100450,Puma,Fashion,4.8,Decent for the price,2025-12-03
+100451,Dell,Home,2.7,Product is okay,2025-12-05
+100452,HP,Home,4.7,Bad experience,2025-11-24
+100453,Boat,Home,3.4,Works perfectly,2025-12-23
+100454,Boat,Home,4.5,"Not bad, not great",2025-11-05
+100455,Nike,Fashion,2.9,Very disappointed,2025-12-24
+100456,Boat,Appliances,4.5,Poor quality,2025-11-27
+100457,LG,Appliances,4.1,Highly recommended,2025-11-30
+100458,HP,Home,3.0,"Not bad, not great",2025-12-01
+100459,Dell,Fashion,3.7,"Not bad, not great",2025-12-18
+100460,Nike,Appliances,4.8,"Excellent product, very satisfied",2025-11-03
+100461,Puma,Fashion,3.7,"Not bad, not great",2025-10-26
+100462,Samsung,Home,3.3,Worth the money,2025-12-21
+100463,Nike,Appliances,4.1,Decent for the price,2025-11-30
+100464,Puma,Fashion,4.7,Poor quality,2025-11-19
+100465,Nike,Appliances,2.9,Not worth the price,2025-12-16
+100466,Nike,Appliances,3.8,Highly recommended,2025-12-06
+100467,Nike,Appliances,3.7,Quality is really good,2025-12-23
+100468,Puma,Appliances,4.1,"Excellent product, very satisfied",2025-11-09
+100469,Boat,Fashion,4.8,Stopped working quickly,2025-12-13
+100470,HP,Appliances,4.0,Average quality,2025-11-17
+100471,LG,Fashion,4.4,Poor quality,2025-12-10
+100472,LG,Fashion,3.9,"Not bad, not great",2025-11-19
+100473,Dell,Fashion,4.4,Product is okay,2025-12-05
+100474,Apple,Fashion,4.4,Quality is really good,2025-12-04
+100475,LG,Electronics,3.7,Very disappointed,2025-12-10
+100476,Puma,Appliances,4.7,Stopped working quickly,2025-12-14
+100477,LG,Electronics,4.5,Stopped working quickly,2025-12-13
+100478,HP,Fashion,4.6,Average quality,2025-11-13
+100479,Boat,Home,2.8,Quality is really good,2025-10-30
+100480,Samsung,Electronics,3.4,Poor quality,2025-12-07
+100481,Nike,Home,3.8,Meets expectations,2025-11-23
+100482,Dell,Appliances,3.2,Very disappointed,2025-11-18
+100483,HP,Appliances,3.9,Bad experience,2025-12-07
+100484,Apple,Fashion,4.2,Poor quality,2025-12-12
+100485,Boat,Fashion,3.4,"Excellent product, very satisfied",2025-12-24
+100486,Puma,Appliances,3.8,Not worth the price,2025-11-07
+100487,Nike,Fashion,4.7,Poor quality,2025-11-28
+100488,Boat,Fashion,2.8,Average quality,2025-12-24
+100489,LG,Home,3.6,Very disappointed,2025-11-25
+100490,LG,Home,4.4,Average quality,2025-11-05
+100491,Apple,Fashion,4.0,Poor quality,2025-12-12
+100492,HP,Fashion,4.1,Average quality,2025-11-11
+100493,Puma,Appliances,3.1,Decent for the price,2025-12-21
+100494,HP,Appliances,3.4,Quality is really good,2025-11-23
+100495,Boat,Home,3.6,Average quality,2025-12-14
+100496,Apple,Fashion,3.5,Decent for the price,2025-12-02
+100497,Samsung,Appliances,3.9,Not worth the price,2025-11-26
+100498,HP,Home,4.4,Poor quality,2025-11-16
+100499,Boat,Fashion,2.8,Very disappointed,2025-12-15
+100500,Samsung,Appliances,3.2,"Not bad, not great",2025-11-17
+100501,Apple,Fashion,4.9,Worth the money,2025-11-23
+100502,Boat,Appliances,4.9,"Not bad, not great",2025-12-02
+100503,LG,Electronics,4.7,Stopped working quickly,2025-11-12
+100504,HP,Electronics,3.3,Quality is really good,2025-11-16
+100505,Boat,Fashion,3.7,"Excellent product, very satisfied",2025-12-04
+100506,Apple,Electronics,3.9,"Excellent product, very satisfied",2025-11-05
+100507,Nike,Fashion,4.0,Poor quality,2025-11-10
+100508,Puma,Electronics,3.9,Average quality,2025-12-12
+100509,Nike,Fashion,3.0,Average quality,2025-11-21
+100510,Boat,Home,4.4,Very disappointed,2025-11-28
+100511,Apple,Home,4.8,Decent for the price,2025-11-25
+100512,Puma,Home,2.6,Bad experience,2025-11-04
+100513,Nike,Home,4.0,Worth the money,2025-12-16
+100514,HP,Fashion,4.1,Worth the money,2025-12-19
+100515,Apple,Home,2.7,Product is okay,2025-11-11
+100516,Sony,Fashion,4.4,Poor quality,2025-11-09
+100517,Dell,Home,4.4,Worth the money,2025-11-17
+100518,Boat,Home,2.9,Meets expectations,2025-12-21
+100519,HP,Appliances,4.4,Highly recommended,2025-10-28
+100520,Puma,Appliances,4.7,Average quality,2025-11-22
+100521,Samsung,Home,3.0,Bad experience,2025-12-12
+100522,Puma,Home,3.8,Worth the money,2025-11-28
+100523,HP,Fashion,3.9,Product is okay,2025-11-06
+100524,Nike,Home,4.6,"Not bad, not great",2025-11-22
+100525,Dell,Appliances,2.6,Average quality,2025-12-12
+100526,Samsung,Appliances,3.8,Worth the money,2025-11-22
+100527,Sony,Home,4.2,Stopped working quickly,2025-12-25
+100528,Nike,Electronics,3.8,Very disappointed,2025-12-10
+100529,Puma,Fashion,4.3,Highly recommended,2025-11-08
+100530,Nike,Appliances,3.9,Quality is really good,2025-11-02
+100531,Puma,Fashion,3.5,Works perfectly,2025-10-31
+100532,LG,Appliances,3.2,"Not bad, not great",2025-12-06
+100533,Samsung,Fashion,2.8,"Not bad, not great",2025-12-09
+100534,Dell,Appliances,4.3,Not worth the price,2025-12-19
+100535,Puma,Electronics,2.7,Average quality,2025-11-20
+100536,Samsung,Appliances,3.6,Quality is really good,2025-12-09
+100537,Puma,Electronics,5.0,Very disappointed,2025-12-03
+100538,Boat,Electronics,3.9,Works perfectly,2025-11-21
+100539,Dell,Fashion,3.3,Quality is really good,2025-11-04
+100540,Samsung,Fashion,4.1,Poor quality,2025-10-26
+100541,LG,Fashion,2.5,Meets expectations,2025-12-15
+100542,Samsung,Home,2.7,Poor quality,2025-12-09
+100543,Sony,Home,4.6,Quality is really good,2025-12-23
+100544,Samsung,Electronics,2.6,"Not bad, not great",2025-12-20
+100545,Sony,Appliances,4.4,Decent for the price,2025-11-19
+100546,HP,Appliances,4.5,Average quality,2025-10-30
+100547,HP,Fashion,3.6,Stopped working quickly,2025-12-03
+100548,Puma,Fashion,4.4,Works perfectly,2025-12-18
+100549,LG,Home,2.7,Stopped working quickly,2025-12-06
+100550,Boat,Home,4.8,Quality is really good,2025-11-14
+100551,Boat,Home,4.6,Product is okay,2025-12-13
+100552,Boat,Home,3.1,Average quality,2025-11-15
+100553,Dell,Fashion,4.9,Stopped working quickly,2025-11-03
+100554,LG,Appliances,4.6,Product is okay,2025-12-10
+100555,Sony,Home,4.4,Stopped working quickly,2025-12-25
+100556,LG,Home,3.7,Meets expectations,2025-11-24
+100557,Nike,Fashion,3.6,Poor quality,2025-12-23
+100558,Dell,Electronics,3.1,Meets expectations,2025-11-18
+100559,Nike,Electronics,4.9,Highly recommended,2025-11-26
+100560,LG,Home,3.0,Very disappointed,2025-11-21
+100561,Nike,Fashion,4.3,"Not bad, not great",2025-12-19
+100562,LG,Electronics,3.7,Decent for the price,2025-12-12
+100563,Apple,Home,3.9,Very disappointed,2025-11-05
+100564,Boat,Fashion,4.4,Highly recommended,2025-12-25
+100565,Sony,Electronics,4.6,Stopped working quickly,2025-12-05
+100566,Sony,Appliances,4.7,Not worth the price,2025-12-16
+100567,Sony,Electronics,2.6,Quality is really good,2025-12-14
+100568,Boat,Home,2.8,"Not bad, not great",2025-12-14
+100569,Puma,Electronics,2.8,Poor quality,2025-11-07
+100570,Boat,Fashion,2.9,"Not bad, not great",2025-12-08
+100571,Puma,Appliances,4.3,"Not bad, not great",2025-11-21
+100572,Sony,Electronics,4.9,"Not bad, not great",2025-10-30
+100573,Sony,Electronics,3.4,Product is okay,2025-12-14
+100574,Nike,Appliances,3.8,Works perfectly,2025-11-22
+100575,HP,Fashion,3.9,Quality is really good,2025-12-03
+100576,Samsung,Home,3.5,Quality is really good,2025-11-24
+100577,HP,Electronics,2.6,"Excellent product, very satisfied",2025-11-04
+100578,Boat,Home,2.5,Decent for the price,2025-12-13
+100579,Puma,Home,3.7,Meets expectations,2025-11-07
+100580,Dell,Home,4.5,Product is okay,2025-11-15
+100581,Nike,Fashion,2.9,Highly recommended,2025-12-13
+100582,HP,Home,4.9,Quality is really good,2025-11-14
+100583,Dell,Home,3.0,Average quality,2025-12-05
+100584,LG,Fashion,4.0,Poor quality,2025-12-20
+100585,Apple,Fashion,3.9,Very disappointed,2025-11-23
+100586,Apple,Home,3.9,Quality is really good,2025-11-14
+100587,Dell,Electronics,2.6,Stopped working quickly,2025-11-10
+100588,Apple,Fashion,3.9,Very disappointed,2025-11-22
+100589,Dell,Home,3.8,Worth the money,2025-11-09
+100590,Sony,Home,4.7,Works perfectly,2025-12-20
+100591,LG,Home,2.9,Decent for the price,2025-12-10
+100592,Boat,Home,4.7,Very disappointed,2025-11-22
+100593,Sony,Home,3.2,Highly recommended,2025-12-16
+100594,Apple,Appliances,4.3,Meets expectations,2025-11-24
+100595,HP,Electronics,2.7,Bad experience,2025-11-02
+100596,Nike,Home,4.0,Meets expectations,2025-12-11
+100597,LG,Home,4.9,Decent for the price,2025-11-28
+100598,Boat,Electronics,2.8,Product is okay,2025-11-17
+100599,Sony,Appliances,4.2,Product is okay,2025-11-03
+100600,Nike,Home,3.8,Very disappointed,2025-12-16
+100601,Nike,Electronics,3.8,Product is okay,2025-11-05
+100602,Apple,Electronics,3.5,Quality is really good,2025-11-09
+100603,LG,Fashion,3.4,Very disappointed,2025-11-26
+100604,Apple,Home,3.9,Not worth the price,2025-11-23
+100605,Samsung,Appliances,2.8,Works perfectly,2025-12-21
+100606,Samsung,Fashion,4.1,Worth the money,2025-11-09
+100607,Puma,Appliances,3.5,Poor quality,2025-10-31
+100608,Apple,Fashion,3.6,"Excellent product, very satisfied",2025-12-24
+100609,Puma,Fashion,2.5,Very disappointed,2025-11-15
+100610,Puma,Appliances,4.7,Poor quality,2025-12-21
+100611,Samsung,Home,3.5,Product is okay,2025-12-12
+100612,Apple,Fashion,4.9,Product is okay,2025-12-11
+100613,HP,Home,3.9,Decent for the price,2025-11-30
+100614,HP,Appliances,4.5,Works perfectly,2025-11-07
+100615,LG,Home,4.6,Decent for the price,2025-11-27
+100616,Dell,Fashion,3.2,Very disappointed,2025-11-07
+100617,Nike,Home,2.5,Average quality,2025-12-20
+100618,Samsung,Home,3.4,Highly recommended,2025-11-17
+100619,Dell,Home,4.5,Stopped working quickly,2025-11-05
+100620,HP,Electronics,5.0,Poor quality,2025-12-19
+100621,Nike,Fashion,4.7,"Excellent product, very satisfied",2025-11-07
+100622,LG,Appliances,3.6,Not worth the price,2025-11-21
+100623,Apple,Home,2.9,Bad experience,2025-12-10
+100624,HP,Electronics,4.4,Decent for the price,2025-11-21
+100625,Sony,Electronics,3.3,Works perfectly,2025-12-17
+100626,Puma,Appliances,3.8,Meets expectations,2025-11-24
+100627,Dell,Appliances,4.4,Stopped working quickly,2025-11-29
+100628,Samsung,Electronics,4.9,Average quality,2025-11-02
+100629,Nike,Home,3.1,Meets expectations,2025-12-08
+100630,Apple,Appliances,2.5,Not worth the price,2025-11-09
+100631,LG,Electronics,4.2,"Excellent product, very satisfied",2025-11-02
+100632,Boat,Fashion,3.4,Quality is really good,2025-11-19
+100633,Nike,Home,3.1,Worth the money,2025-11-19
+100634,Dell,Home,3.8,Bad experience,2025-12-15
+100635,Boat,Appliances,4.0,Very disappointed,2025-11-23
+100636,Samsung,Appliances,3.4,Meets expectations,2025-11-12
+100637,Boat,Electronics,2.7,"Not bad, not great",2025-11-09
+100638,Boat,Fashion,3.3,Quality is really good,2025-12-02
+100639,LG,Electronics,2.7,Quality is really good,2025-12-16
+100640,Nike,Electronics,3.9,Not worth the price,2025-11-22
+100641,Nike,Fashion,3.5,Bad experience,2025-12-19
+100642,Dell,Home,3.4,Poor quality,2025-10-27
+100643,Nike,Electronics,3.5,Works perfectly,2025-11-08
+100644,Dell,Electronics,3.6,Very disappointed,2025-10-26
+100645,Dell,Home,4.2,Worth the money,2025-10-31
+100646,Nike,Appliances,3.8,Works perfectly,2025-12-14
+100647,Apple,Home,5.0,"Not bad, not great",2025-12-04
+100648,LG,Appliances,4.2,Meets expectations,2025-12-16
+100649,Nike,Appliances,3.5,"Not bad, not great",2025-12-10
+100650,Dell,Appliances,3.5,Meets expectations,2025-11-11
+100651,LG,Fashion,2.5,Meets expectations,2025-11-27
+100652,Nike,Electronics,4.9,Very disappointed,2025-10-30
+100653,Boat,Electronics,4.9,Highly recommended,2025-12-04
+100654,Sony,Electronics,4.8,Product is okay,2025-11-17
+100655,Samsung,Home,3.6,Very disappointed,2025-11-18
+100656,Samsung,Appliances,3.8,"Not bad, not great",2025-10-30
+100657,HP,Electronics,3.6,Average quality,2025-11-29
+100658,Dell,Electronics,4.6,Bad experience,2025-12-17
+100659,HP,Fashion,4.3,Poor quality,2025-10-27
+100660,HP,Fashion,2.6,Poor quality,2025-11-13
+100661,Nike,Fashion,4.2,Highly recommended,2025-11-02
+100662,LG,Fashion,3.9,"Excellent product, very satisfied",2025-12-03
+100663,Puma,Electronics,4.4,Poor quality,2025-12-18
+100664,Nike,Fashion,3.6,Highly recommended,2025-12-13
+100665,Apple,Fashion,4.9,Bad experience,2025-12-23
+100666,Nike,Appliances,4.8,Poor quality,2025-12-10
+100667,Sony,Fashion,3.0,Decent for the price,2025-11-26
+100668,Samsung,Appliances,4.7,Works perfectly,2025-11-01
+100669,Apple,Appliances,3.6,"Not bad, not great",2025-12-14
+100670,Puma,Electronics,4.1,Decent for the price,2025-11-07
+100671,Dell,Electronics,2.9,Not worth the price,2025-11-02
+100672,Sony,Fashion,4.7,Worth the money,2025-12-06
+100673,Puma,Electronics,2.7,Not worth the price,2025-12-13
+100674,Boat,Electronics,4.4,Average quality,2025-11-03
+100675,HP,Home,4.3,Poor quality,2025-11-20
+100676,Apple,Electronics,4.4,Average quality,2025-10-27
+100677,HP,Home,3.2,Quality is really good,2025-12-22
+100678,LG,Appliances,2.6,Bad experience,2025-11-23
+100679,Nike,Fashion,3.6,Highly recommended,2025-11-06
+100680,Nike,Fashion,4.5,"Not bad, not great",2025-12-06
+100681,Samsung,Home,3.6,Highly recommended,2025-11-10
+100682,Apple,Appliances,3.3,"Excellent product, very satisfied",2025-12-02
+100683,Boat,Appliances,3.2,Not worth the price,2025-10-28
+100684,Dell,Electronics,4.2,Average quality,2025-12-08
+100685,Samsung,Home,3.3,Bad experience,2025-11-23
+100686,Sony,Appliances,3.6,Product is okay,2025-10-27
+100687,HP,Home,4.5,"Not bad, not great",2025-10-31
+100688,HP,Appliances,3.5,"Excellent product, very satisfied",2025-11-11
+100689,Nike,Appliances,2.7,Poor quality,2025-12-19
+100690,Samsung,Fashion,4.5,Product is okay,2025-11-05
+100691,Nike,Appliances,4.3,Bad experience,2025-12-25
+100692,HP,Electronics,4.3,Poor quality,2025-12-04
+100693,Dell,Appliances,2.5,Product is okay,2025-12-03
+100694,LG,Appliances,4.7,Decent for the price,2025-11-30
+100695,Sony,Fashion,2.5,Bad experience,2025-12-03
+100696,Puma,Appliances,4.0,Worth the money,2025-11-12
+100697,HP,Electronics,2.9,Poor quality,2025-10-30
+100698,Sony,Home,4.4,Highly recommended,2025-11-05
+100699,Sony,Home,3.5,Meets expectations,2025-12-23
+100700,Apple,Appliances,4.3,Decent for the price,2025-10-30
+100701,Puma,Fashion,3.0,Decent for the price,2025-12-03
+100702,Sony,Home,4.2,Quality is really good,2025-12-03
+100703,Nike,Home,3.2,Highly recommended,2025-11-05
+100704,Samsung,Fashion,4.6,Not worth the price,2025-12-05
+100705,Sony,Home,4.8,Works perfectly,2025-11-14
+100706,Apple,Fashion,3.4,Quality is really good,2025-10-31
+100707,Dell,Appliances,3.2,Highly recommended,2025-11-17
+100708,Dell,Home,4.8,Meets expectations,2025-12-12
+100709,Apple,Fashion,4.5,Poor quality,2025-12-12
+100710,Boat,Fashion,4.0,Worth the money,2025-11-28
+100711,Boat,Electronics,3.6,Stopped working quickly,2025-10-31
+100712,Samsung,Appliances,3.6,Bad experience,2025-11-02
+100713,LG,Fashion,2.9,Poor quality,2025-12-17
+100714,LG,Home,3.6,Not worth the price,2025-12-18
+100715,Apple,Appliances,3.1,"Excellent product, very satisfied",2025-12-18
+100716,Samsung,Electronics,3.3,Bad experience,2025-10-30
+100717,Sony,Appliances,3.7,Bad experience,2025-12-01
+100718,HP,Appliances,3.0,Average quality,2025-12-06
+100719,Sony,Fashion,3.9,Decent for the price,2025-11-18
+100720,Dell,Home,3.7,Works perfectly,2025-11-01
+100721,Boat,Fashion,3.6,Very disappointed,2025-11-21
+100722,Dell,Home,4.1,Decent for the price,2025-11-27
+100723,Puma,Electronics,4.9,Poor quality,2025-10-27
+100724,Sony,Electronics,3.8,Stopped working quickly,2025-11-30
+100725,Boat,Home,3.3,Worth the money,2025-12-16
+100726,Puma,Appliances,2.6,"Excellent product, very satisfied",2025-11-04
+100727,Dell,Fashion,3.2,Stopped working quickly,2025-11-14
+100728,Boat,Electronics,3.6,Quality is really good,2025-12-10
+100729,Boat,Appliances,4.1,Poor quality,2025-11-20
+100730,Samsung,Home,4.6,Works perfectly,2025-12-22
+100731,Nike,Electronics,3.2,Poor quality,2025-11-07
+100732,Dell,Fashion,3.2,Poor quality,2025-12-13
+100733,HP,Fashion,4.8,Poor quality,2025-10-29
+100734,Apple,Electronics,3.0,Poor quality,2025-11-13
+100735,HP,Fashion,3.8,"Not bad, not great",2025-12-11
+100736,HP,Home,3.7,Worth the money,2025-12-20
+100737,HP,Electronics,3.2,Stopped working quickly,2025-11-18
+100738,Nike,Fashion,3.4,Product is okay,2025-12-08
+100739,Samsung,Home,4.3,Meets expectations,2025-11-18
+100740,Dell,Fashion,4.5,Worth the money,2025-12-11
+100741,Boat,Fashion,4.6,Worth the money,2025-10-31
+100742,Sony,Home,2.7,"Not bad, not great",2025-12-15
+100743,HP,Electronics,3.8,Very disappointed,2025-10-26
+100744,Samsung,Home,3.3,Poor quality,2025-11-22
+100745,Nike,Home,3.2,Worth the money,2025-11-13
+100746,Sony,Home,3.1,Meets expectations,2025-12-08
+100747,Samsung,Electronics,2.8,Product is okay,2025-11-03
+100748,Sony,Home,3.4,Average quality,2025-11-07
+100749,Samsung,Appliances,4.9,Meets expectations,2025-11-15
+100750,HP,Appliances,3.6,"Excellent product, very satisfied",2025-12-23
+100751,Boat,Home,4.4,Worth the money,2025-12-16
+100752,Nike,Electronics,3.3,Meets expectations,2025-12-15
+100753,Dell,Home,2.9,Quality is really good,2025-10-29
+100754,Boat,Home,3.2,Very disappointed,2025-10-27
+100755,Boat,Home,3.8,Bad experience,2025-11-10
+100756,Boat,Electronics,5.0,Average quality,2025-11-18
+100757,Sony,Appliances,4.8,Works perfectly,2025-11-15
+100758,Sony,Appliances,4.4,Poor quality,2025-11-21
+100759,Boat,Appliances,3.4,Very disappointed,2025-11-20
+100760,Puma,Electronics,3.1,Works perfectly,2025-12-14
+100761,Sony,Home,2.8,Poor quality,2025-12-18
+100762,Boat,Home,2.8,Worth the money,2025-10-29
+100763,Samsung,Electronics,3.4,"Not bad, not great",2025-12-07
+100764,Samsung,Electronics,3.8,Product is okay,2025-12-08
+100765,Nike,Appliances,4.0,Meets expectations,2025-11-20
+100766,Samsung,Home,4.4,Meets expectations,2025-12-12
+100767,Nike,Electronics,3.2,Works perfectly,2025-11-04
+100768,Nike,Fashion,2.5,Quality is really good,2025-11-10
+100769,Sony,Appliances,4.8,Quality is really good,2025-10-27
+100770,HP,Appliances,2.5,Works perfectly,2025-12-03
+100771,Boat,Fashion,2.7,Product is okay,2025-11-07
+100772,LG,Fashion,4.2,Not worth the price,2025-12-01
+100773,Samsung,Electronics,3.2,Average quality,2025-12-07
+100774,Samsung,Electronics,4.1,"Excellent product, very satisfied",2025-11-22
+100775,HP,Electronics,4.0,Quality is really good,2025-11-26
+100776,Apple,Fashion,3.0,Average quality,2025-11-07
+100777,Apple,Fashion,4.3,Bad experience,2025-11-13
+100778,Boat,Appliances,4.6,Worth the money,2025-11-03
+100779,Dell,Appliances,2.9,Not worth the price,2025-11-09
+100780,Samsung,Electronics,3.8,Not worth the price,2025-11-30
+100781,Apple,Electronics,3.5,Not worth the price,2025-11-10
+100782,Nike,Electronics,4.6,"Not bad, not great",2025-11-24
+100783,Dell,Home,4.7,"Not bad, not great",2025-11-30
+100784,Samsung,Appliances,4.4,Poor quality,2025-12-17
+100785,HP,Electronics,3.7,Decent for the price,2025-12-02
+100786,Nike,Fashion,3.8,"Not bad, not great",2025-11-18
+100787,Sony,Appliances,4.1,Bad experience,2025-12-09
+100788,Sony,Fashion,3.0,"Excellent product, very satisfied",2025-10-27
+100789,Dell,Electronics,2.8,Quality is really good,2025-11-28
+100790,Puma,Home,4.3,Not worth the price,2025-11-03
+100791,LG,Home,4.7,Not worth the price,2025-12-08
+100792,LG,Home,3.7,Highly recommended,2025-12-07
+100793,HP,Home,4.0,Quality is really good,2025-11-16
+100794,Nike,Appliances,2.8,"Excellent product, very satisfied",2025-11-07
+100795,Nike,Appliances,4.0,Not worth the price,2025-11-21
+100796,Nike,Appliances,4.0,Highly recommended,2025-11-03
+100797,Samsung,Home,4.7,Worth the money,2025-11-15
+100798,Boat,Home,3.1,Works perfectly,2025-12-20
+100799,Nike,Home,4.7,Decent for the price,2025-12-05
+100800,Sony,Fashion,2.7,Works perfectly,2025-11-16
+100801,LG,Electronics,3.8,"Excellent product, very satisfied",2025-11-19
+100802,Samsung,Electronics,3.0,Worth the money,2025-11-26
+100803,HP,Electronics,3.7,Product is okay,2025-12-14
+100804,Nike,Fashion,4.2,Very disappointed,2025-11-04
+100805,Puma,Electronics,3.8,Product is okay,2025-12-05
+100806,Dell,Home,3.4,Very disappointed,2025-11-28
+100807,Puma,Home,4.6,Stopped working quickly,2025-11-22
+100808,Nike,Electronics,3.7,Decent for the price,2025-12-25
+100809,Apple,Fashion,3.9,Stopped working quickly,2025-11-10
+100810,Dell,Appliances,4.3,"Excellent product, very satisfied",2025-11-27
+100811,HP,Electronics,4.0,Stopped working quickly,2025-11-07
+100812,LG,Home,3.7,"Excellent product, very satisfied",2025-12-03
+100813,Apple,Home,4.4,Poor quality,2025-11-11
+100814,Samsung,Electronics,3.6,Stopped working quickly,2025-12-20
+100815,Dell,Appliances,4.0,Stopped working quickly,2025-11-29
+100816,Nike,Electronics,3.1,Product is okay,2025-11-19
+100817,Sony,Electronics,2.6,Decent for the price,2025-10-27
+100818,Nike,Appliances,3.3,Decent for the price,2025-12-14
+100819,Samsung,Appliances,3.1,Worth the money,2025-12-22
+100820,Boat,Home,2.9,Works perfectly,2025-12-07
+100821,Apple,Fashion,4.1,Quality is really good,2025-12-07
+100822,LG,Fashion,3.3,Worth the money,2025-12-17
+100823,Puma,Home,2.6,Not worth the price,2025-12-05
+100824,Samsung,Electronics,4.6,Average quality,2025-11-12
+100825,Boat,Electronics,4.2,Bad experience,2025-11-01
+100826,Boat,Electronics,4.2,Stopped working quickly,2025-12-12
+100827,Dell,Appliances,2.7,Quality is really good,2025-12-17
+100828,Nike,Fashion,4.2,Decent for the price,2025-11-08
+100829,Apple,Fashion,2.6,Decent for the price,2025-11-22
+100830,Samsung,Fashion,4.6,Decent for the price,2025-11-02
+100831,Nike,Fashion,3.8,Average quality,2025-11-24
+100832,HP,Home,4.6,Decent for the price,2025-12-09
+100833,Samsung,Home,2.6,Decent for the price,2025-11-17
+100834,Dell,Fashion,3.7,Very disappointed,2025-12-11
+100835,Boat,Appliances,4.1,Bad experience,2025-11-10
+100836,Boat,Appliances,4.6,Quality is really good,2025-12-09
+100837,Dell,Home,2.6,Highly recommended,2025-12-22
+100838,Samsung,Home,3.1,Average quality,2025-12-09
+100839,Puma,Home,2.8,Quality is really good,2025-11-05
+100840,HP,Fashion,4.8,"Not bad, not great",2025-11-23
+100841,LG,Home,3.9,Works perfectly,2025-12-18
+100842,Sony,Home,3.2,"Excellent product, very satisfied",2025-11-27
+100843,Sony,Electronics,2.8,Very disappointed,2025-11-03
+100844,Puma,Electronics,2.7,Average quality,2025-10-28
+100845,Nike,Electronics,4.6,Poor quality,2025-11-21
+100846,LG,Home,3.5,Average quality,2025-11-09
+100847,Puma,Fashion,2.7,Works perfectly,2025-12-09
+100848,Nike,Home,4.6,Bad experience,2025-11-26
+100849,Dell,Home,2.8,Bad experience,2025-12-19
+100850,Apple,Electronics,3.7,Stopped working quickly,2025-11-09
+100851,Puma,Electronics,2.6,Stopped working quickly,2025-11-16
+100852,Boat,Home,2.7,Bad experience,2025-12-08
+100853,Apple,Home,4.7,Product is okay,2025-12-03
+100854,HP,Appliances,3.9,Average quality,2025-12-07
+100855,Dell,Fashion,4.1,Meets expectations,2025-12-05
+100856,Nike,Home,3.2,Highly recommended,2025-11-26
+100857,Dell,Appliances,3.2,Bad experience,2025-11-28
+100858,Nike,Electronics,3.9,Quality is really good,2025-12-19
+100859,Samsung,Appliances,3.6,Not worth the price,2025-12-18
+100860,Puma,Electronics,2.6,Bad experience,2025-12-16
+100861,LG,Fashion,4.6,Very disappointed,2025-12-14
+100862,LG,Electronics,4.9,Poor quality,2025-11-02
+100863,Boat,Appliances,2.9,Bad experience,2025-12-22
+100864,Sony,Appliances,3.2,Works perfectly,2025-12-18
+100865,LG,Electronics,4.2,Stopped working quickly,2025-11-05
+100866,Boat,Fashion,3.8,"Not bad, not great",2025-11-05
+100867,LG,Home,4.4,"Not bad, not great",2025-12-22
+100868,Dell,Fashion,4.4,Poor quality,2025-10-28
+100869,Puma,Fashion,2.8,Average quality,2025-11-29
+100870,Sony,Electronics,3.0,Stopped working quickly,2025-11-02
+100871,HP,Fashion,4.8,Not worth the price,2025-12-19
+100872,Samsung,Appliances,4.7,Not worth the price,2025-11-04
+100873,LG,Home,4.5,Not worth the price,2025-12-09
+100874,HP,Home,4.4,Decent for the price,2025-11-17
+100875,Puma,Electronics,3.9,Works perfectly,2025-11-24
+100876,Boat,Appliances,3.7,Worth the money,2025-11-28
+100877,Puma,Home,3.7,Worth the money,2025-11-08
+100878,Nike,Electronics,4.9,"Excellent product, very satisfied",2025-12-01
+100879,Boat,Appliances,3.8,Product is okay,2025-11-04
+100880,Puma,Fashion,3.3,Works perfectly,2025-11-24
+100881,LG,Home,2.5,Worth the money,2025-11-15
+100882,LG,Fashion,4.2,"Not bad, not great",2025-11-30
+100883,Dell,Home,3.6,"Excellent product, very satisfied",2025-11-28
+100884,Dell,Electronics,3.3,Highly recommended,2025-11-17
+100885,Puma,Appliances,4.0,Worth the money,2025-11-23
+100886,Nike,Fashion,4.3,Works perfectly,2025-12-24
+100887,Apple,Electronics,3.9,"Not bad, not great",2025-11-29
+100888,Dell,Fashion,3.3,Not worth the price,2025-10-30
+100889,Samsung,Fashion,4.9,Bad experience,2025-11-23
+100890,HP,Fashion,4.9,"Not bad, not great",2025-11-06
+100891,HP,Electronics,4.3,Decent for the price,2025-11-04
+100892,Samsung,Electronics,2.6,Decent for the price,2025-11-29
+100893,Puma,Fashion,2.7,Average quality,2025-12-14
+100894,Samsung,Appliances,3.2,Works perfectly,2025-11-17
+100895,Sony,Home,4.7,Decent for the price,2025-12-08
+100896,Samsung,Electronics,3.9,"Not bad, not great",2025-11-23
+100897,Nike,Appliances,4.2,Worth the money,2025-12-22
+100898,Boat,Appliances,4.1,Highly recommended,2025-11-10
+100899,Apple,Appliances,4.7,Worth the money,2025-11-01
+100900,Puma,Appliances,3.5,Not worth the price,2025-11-01
+100901,Dell,Fashion,2.9,Highly recommended,2025-12-10
+100902,Nike,Appliances,4.1,Product is okay,2025-11-07
+100903,Sony,Fashion,4.3,Poor quality,2025-11-18
+100904,Sony,Home,2.6,Bad experience,2025-11-04
+100905,Nike,Home,3.3,Bad experience,2025-12-08
+100906,LG,Appliances,2.7,Bad experience,2025-11-01
+100907,LG,Electronics,4.9,Quality is really good,2025-12-23
+100908,Apple,Electronics,3.7,Stopped working quickly,2025-12-13
+100909,Apple,Fashion,2.8,"Excellent product, very satisfied",2025-11-24
+100910,Boat,Appliances,4.9,Stopped working quickly,2025-10-26
+100911,Nike,Appliances,2.9,Stopped working quickly,2025-11-24
+100912,HP,Home,3.9,"Not bad, not great",2025-11-25
+100913,Puma,Electronics,4.1,Very disappointed,2025-11-30
+100914,Nike,Home,2.8,Product is okay,2025-12-22
+100915,Boat,Fashion,3.6,Product is okay,2025-11-11
+100916,LG,Appliances,4.6,Decent for the price,2025-12-09
+100917,Samsung,Fashion,3.4,Stopped working quickly,2025-10-27
+100918,Samsung,Electronics,4.5,Stopped working quickly,2025-11-11
+100919,LG,Fashion,2.6,Product is okay,2025-11-29
+100920,Boat,Home,4.0,Not worth the price,2025-10-28
+100921,Nike,Electronics,4.8,Works perfectly,2025-11-25
+100922,HP,Electronics,2.6,Stopped working quickly,2025-10-29
+100923,Apple,Appliances,4.5,Average quality,2025-11-18
+100924,Puma,Electronics,3.0,Quality is really good,2025-11-05
+100925,HP,Appliances,4.7,Decent for the price,2025-11-18
+100926,Samsung,Appliances,3.5,Highly recommended,2025-11-08
+100927,Boat,Appliances,4.2,Not worth the price,2025-11-11
+100928,Nike,Appliances,4.2,Not worth the price,2025-12-17
+100929,Nike,Fashion,4.4,Stopped working quickly,2025-11-19
+100930,Nike,Fashion,4.2,Quality is really good,2025-11-03
+100931,Boat,Appliances,4.2,Highly recommended,2025-11-17
+100932,Boat,Fashion,2.6,Worth the money,2025-12-02
+100933,Apple,Appliances,4.4,Average quality,2025-11-22
+100934,Dell,Home,3.2,Works perfectly,2025-11-10
+100935,Puma,Appliances,4.5,Very disappointed,2025-11-09
+100936,Dell,Appliances,5.0,Bad experience,2025-11-14
+100937,Boat,Home,3.2,Works perfectly,2025-11-17
+100938,Samsung,Fashion,2.7,Decent for the price,2025-11-07
+100939,Samsung,Fashion,4.6,Poor quality,2025-10-29
+100940,Puma,Electronics,4.6,Works perfectly,2025-12-02
+100941,Samsung,Electronics,3.9,"Not bad, not great",2025-12-24
+100942,Boat,Appliances,4.2,Product is okay,2025-11-10
+100943,Dell,Fashion,4.9,Meets expectations,2025-11-08
+100944,Sony,Fashion,4.9,"Not bad, not great",2025-11-30
+100945,HP,Appliances,3.6,Poor quality,2025-11-15
+100946,Puma,Electronics,2.6,Decent for the price,2025-11-07
+100947,Samsung,Appliances,3.8,"Excellent product, very satisfied",2025-10-27
+100948,Sony,Fashion,4.5,Works perfectly,2025-12-05
+100949,Apple,Appliances,4.5,Stopped working quickly,2025-10-31
+100950,Nike,Home,4.8,Not worth the price,2025-12-09
+100951,Dell,Appliances,4.1,"Not bad, not great",2025-12-19
+100952,LG,Appliances,2.8,Poor quality,2025-11-24
+100953,Nike,Fashion,4.4,"Excellent product, very satisfied",2025-12-15
+100954,LG,Appliances,4.0,Very disappointed,2025-11-15
+100955,Samsung,Fashion,4.2,Poor quality,2025-11-10
+100956,Boat,Home,4.3,Quality is really good,2025-11-23
+100957,Dell,Fashion,2.8,Very disappointed,2025-11-12
+100958,Apple,Fashion,3.5,Stopped working quickly,2025-11-23
+100959,Puma,Appliances,2.9,Decent for the price,2025-11-04
+100960,Apple,Appliances,3.8,Stopped working quickly,2025-10-26
+100961,Puma,Appliances,4.9,Very disappointed,2025-12-05
+100962,Apple,Fashion,3.2,"Not bad, not great",2025-11-15
+100963,Puma,Appliances,2.7,Average quality,2025-12-10
+100964,Boat,Electronics,4.0,Quality is really good,2025-11-21
+100965,Boat,Appliances,2.5,Not worth the price,2025-12-20
+100966,Dell,Home,3.3,Very disappointed,2025-12-11
+100967,Nike,Appliances,4.8,Poor quality,2025-11-28
+100968,Nike,Fashion,3.2,Product is okay,2025-11-21
+100969,Samsung,Appliances,4.1,Stopped working quickly,2025-11-10
+100970,Dell,Electronics,2.7,Not worth the price,2025-12-08
+100971,Puma,Appliances,3.8,Decent for the price,2025-11-28
+100972,Puma,Electronics,4.9,Highly recommended,2025-10-28
+100973,Nike,Electronics,4.5,Average quality,2025-12-15
+100974,Dell,Appliances,2.9,Decent for the price,2025-12-10
+100975,Dell,Home,3.6,Not worth the price,2025-11-01
+100976,Apple,Fashion,2.6,Average quality,2025-11-05
+100977,Samsung,Appliances,4.4,Decent for the price,2025-10-31
+100978,Samsung,Electronics,2.8,Not worth the price,2025-12-09
+100979,HP,Home,3.6,"Excellent product, very satisfied",2025-12-18
+100980,Nike,Appliances,3.5,Poor quality,2025-12-20
+100981,Nike,Appliances,4.1,Product is okay,2025-12-07
+100982,Samsung,Appliances,4.4,Stopped working quickly,2025-11-14
+100983,Boat,Home,3.0,"Excellent product, very satisfied",2025-12-11
+100984,Apple,Home,4.5,Stopped working quickly,2025-12-12
+100985,Dell,Home,3.6,Bad experience,2025-12-21
+100986,Samsung,Appliances,4.2,Poor quality,2025-10-29
+100987,Dell,Appliances,3.5,Decent for the price,2025-10-26
+100988,Apple,Fashion,4.0,Average quality,2025-12-08
+100989,Dell,Fashion,2.5,"Excellent product, very satisfied",2025-12-03
+100990,Apple,Appliances,3.2,Product is okay,2025-12-09
+100991,Dell,Electronics,4.6,Stopped working quickly,2025-12-01
+100992,Samsung,Electronics,3.3,Meets expectations,2025-11-30
+100993,Apple,Home,3.6,Very disappointed,2025-12-16
+100994,Boat,Electronics,4.7,Not worth the price,2025-11-30
+100995,Boat,Home,3.8,Not worth the price,2025-12-06
+100996,Samsung,Appliances,4.2,Product is okay,2025-11-08
+100997,Boat,Home,3.1,Highly recommended,2025-12-25
+100998,Samsung,Fashion,4.7,Decent for the price,2025-11-13
+100999,Samsung,Home,4.6,Worth the money,2025-12-21
+101000,Sony,Home,3.1,Quality is really good,2025-11-03
+101001,Nike,Fashion,3.7,"Not bad, not great",2025-11-27
+101002,Samsung,Appliances,4.2,"Excellent product, very satisfied",2025-11-03
+101003,HP,Home,4.2,Poor quality,2025-12-23
+101004,HP,Appliances,4.0,Decent for the price,2025-11-16
+101005,Nike,Home,4.1,Meets expectations,2025-11-12
+101006,Puma,Fashion,3.7,Works perfectly,2025-11-25
+101007,Dell,Fashion,3.5,Worth the money,2025-11-15
+101008,Puma,Fashion,3.8,Meets expectations,2025-11-24
+101009,Apple,Appliances,3.2,Bad experience,2025-12-16
+101010,Dell,Electronics,3.5,Stopped working quickly,2025-11-25
+101011,Apple,Appliances,3.9,"Not bad, not great",2025-12-16
+101012,HP,Appliances,3.2,Worth the money,2025-12-19
+101013,Samsung,Home,3.1,Works perfectly,2025-12-01
+101014,Puma,Home,4.9,Stopped working quickly,2025-11-12
+101015,Samsung,Appliances,2.8,Average quality,2025-11-18
+101016,Sony,Home,4.6,Meets expectations,2025-12-20
+101017,Nike,Appliances,4.8,Decent for the price,2025-11-06
+101018,HP,Home,4.7,Highly recommended,2025-12-22
+101019,Nike,Fashion,3.5,Poor quality,2025-12-01
+101020,Samsung,Home,3.7,"Not bad, not great",2025-12-25
+101021,LG,Home,4.9,Bad experience,2025-11-14
+101022,Nike,Fashion,2.8,"Not bad, not great",2025-12-01
+101023,Boat,Appliances,4.3,Highly recommended,2025-11-09
+101024,Puma,Fashion,3.0,Decent for the price,2025-10-29
+101025,HP,Appliances,4.4,Product is okay,2025-11-04
+101026,Boat,Fashion,4.2,Works perfectly,2025-12-04
+101027,Dell,Appliances,4.0,Highly recommended,2025-12-16
+101028,Dell,Appliances,3.5,Average quality,2025-12-01
+101029,Puma,Home,3.7,Quality is really good,2025-11-20
+101030,LG,Electronics,4.6,Worth the money,2025-12-21
+101031,Samsung,Appliances,3.4,Not worth the price,2025-11-13
+101032,Apple,Electronics,2.9,"Not bad, not great",2025-12-15
+101033,Dell,Home,3.4,Very disappointed,2025-11-14
+101034,HP,Fashion,4.4,Stopped working quickly,2025-11-22
+101035,Boat,Home,3.5,Meets expectations,2025-12-14
+101036,Nike,Electronics,4.2,Stopped working quickly,2025-12-23
+101037,Dell,Appliances,4.4,Bad experience,2025-12-19
+101038,Samsung,Appliances,4.3,"Excellent product, very satisfied",2025-11-20
+101039,Sony,Fashion,3.5,Poor quality,2025-12-01
+101040,Nike,Electronics,3.0,Highly recommended,2025-11-11
+101041,Samsung,Electronics,3.8,Works perfectly,2025-12-14
+101042,Puma,Fashion,3.5,Worth the money,2025-10-31
+101043,LG,Appliances,3.3,Worth the money,2025-12-16
+101044,Boat,Electronics,3.5,Poor quality,2025-12-04
+101045,HP,Fashion,4.3,Not worth the price,2025-11-29
+101046,Samsung,Fashion,2.9,Meets expectations,2025-11-08
+101047,Apple,Electronics,4.3,Stopped working quickly,2025-11-12
+101048,Dell,Appliances,3.6,Quality is really good,2025-11-29
+101049,Apple,Fashion,4.3,Poor quality,2025-12-12
+101050,Boat,Electronics,3.5,"Excellent product, very satisfied",2025-11-19
+101051,LG,Electronics,4.4,Decent for the price,2025-12-13
+101052,Dell,Appliances,2.7,Bad experience,2025-11-12
+101053,Sony,Home,2.6,Quality is really good,2025-11-01
+101054,HP,Home,3.4,Decent for the price,2025-11-19
+101055,Sony,Fashion,4.5,Quality is really good,2025-12-16
+101056,Dell,Fashion,2.7,Quality is really good,2025-12-20
+101057,Boat,Appliances,2.7,Decent for the price,2025-11-27
+101058,Nike,Appliances,3.1,Worth the money,2025-12-19
+101059,Nike,Home,3.6,Poor quality,2025-11-19
+101060,Dell,Electronics,4.7,Decent for the price,2025-12-11
+101061,Puma,Appliances,3.7,Product is okay,2025-12-03
+101062,Dell,Electronics,3.1,Quality is really good,2025-11-11
+101063,Samsung,Home,3.2,Stopped working quickly,2025-11-19
+101064,Samsung,Home,2.7,Not worth the price,2025-11-19
+101065,Dell,Home,2.9,Stopped working quickly,2025-12-11
+101066,Nike,Home,4.3,"Not bad, not great",2025-11-01
+101067,Dell,Appliances,5.0,Product is okay,2025-12-16
+101068,Nike,Appliances,2.9,Meets expectations,2025-11-08
+101069,Samsung,Home,3.4,Worth the money,2025-12-17
+101070,HP,Appliances,4.6,Average quality,2025-12-17
+101071,Dell,Appliances,4.2,Poor quality,2025-12-16
+101072,Samsung,Appliances,3.5,Worth the money,2025-11-22
+101073,Sony,Home,3.0,Highly recommended,2025-12-07
+101074,Puma,Appliances,4.4,Decent for the price,2025-10-30
+101075,Nike,Fashion,4.7,Stopped working quickly,2025-11-02
+101076,HP,Fashion,3.7,Quality is really good,2025-12-25
+101077,LG,Electronics,4.1,Poor quality,2025-12-15
+101078,Apple,Fashion,4.8,"Not bad, not great",2025-11-23
+101079,Boat,Appliances,2.9,Not worth the price,2025-11-29
+101080,Samsung,Home,4.0,Meets expectations,2025-12-01
+101081,Sony,Appliances,3.6,Stopped working quickly,2025-12-12
+101082,HP,Electronics,2.7,Meets expectations,2025-11-29
+101083,Sony,Appliances,2.9,Meets expectations,2025-10-30
+101084,Puma,Fashion,4.5,Meets expectations,2025-11-09
+101085,Samsung,Fashion,2.5,Average quality,2025-11-09
+101086,HP,Electronics,2.6,Stopped working quickly,2025-12-14
+101087,LG,Fashion,3.8,Bad experience,2025-11-21
+101088,Dell,Appliances,4.0,Average quality,2025-11-26
+101089,Puma,Electronics,2.7,Average quality,2025-10-27
+101090,LG,Home,3.8,Decent for the price,2025-11-07
+101091,Nike,Appliances,3.8,Average quality,2025-11-29
+101092,Dell,Electronics,4.4,Bad experience,2025-12-14
+101093,Sony,Electronics,2.7,Average quality,2025-11-07
+101094,Dell,Fashion,2.6,"Not bad, not great",2025-11-19
+101095,Apple,Fashion,2.6,Worth the money,2025-11-28
+101096,Boat,Fashion,4.6,Not worth the price,2025-11-19
+101097,Nike,Home,3.5,Bad experience,2025-12-16
+101098,Sony,Electronics,3.6,"Excellent product, very satisfied",2025-12-12
+101099,Nike,Fashion,2.6,Works perfectly,2025-12-13
+101100,Sony,Electronics,2.8,Stopped working quickly,2025-12-14
+101101,LG,Fashion,2.8,Meets expectations,2025-12-22
+101102,Puma,Appliances,3.4,Decent for the price,2025-12-12
+101103,Nike,Appliances,2.6,Very disappointed,2025-12-14
+101104,Puma,Appliances,3.2,Product is okay,2025-11-25
+101105,Boat,Appliances,4.5,Average quality,2025-12-11
+101106,Dell,Appliances,2.9,Average quality,2025-12-20
+101107,HP,Home,3.1,Highly recommended,2025-12-22
+101108,Puma,Fashion,3.7,"Excellent product, very satisfied",2025-11-27
+101109,Nike,Home,3.0,Stopped working quickly,2025-11-18
+101110,Boat,Home,2.8,"Not bad, not great",2025-12-25
+101111,Dell,Electronics,3.9,Product is okay,2025-11-22
+101112,HP,Electronics,3.0,Works perfectly,2025-12-08
+101113,Boat,Fashion,3.5,Average quality,2025-11-15
+101114,Samsung,Appliances,2.8,"Not bad, not great",2025-11-01
+101115,Puma,Electronics,2.7,Stopped working quickly,2025-11-18
+101116,LG,Home,3.3,"Not bad, not great",2025-11-24
+101117,LG,Home,3.3,"Not bad, not great",2025-11-09
+101118,Apple,Appliances,2.8,Decent for the price,2025-11-06
+101119,Nike,Fashion,4.0,"Excellent product, very satisfied",2025-11-17
+101120,Nike,Appliances,3.4,Poor quality,2025-11-08
+101121,Apple,Electronics,3.0,Poor quality,2025-11-28
+101122,Sony,Home,3.8,Bad experience,2025-12-08
+101123,Puma,Fashion,3.3,"Excellent product, very satisfied",2025-12-11
+101124,Apple,Electronics,3.1,Not worth the price,2025-12-16
+101125,Puma,Fashion,4.9,Highly recommended,2025-12-15
+101126,Nike,Appliances,3.4,Product is okay,2025-12-01
+101127,Boat,Home,4.8,Not worth the price,2025-11-21
+101128,Puma,Appliances,2.8,Meets expectations,2025-10-31
+101129,Puma,Electronics,4.0,Product is okay,2025-11-06
+101130,Nike,Fashion,5.0,Average quality,2025-11-20
+101131,Apple,Appliances,4.8,Poor quality,2025-11-12
+101132,Apple,Electronics,4.8,Poor quality,2025-10-26
+101133,Dell,Electronics,4.3,Works perfectly,2025-11-13
+101134,Apple,Electronics,4.5,Works perfectly,2025-12-22
+101135,Dell,Home,2.6,Stopped working quickly,2025-11-10
+101136,Puma,Appliances,3.8,Very disappointed,2025-11-28
+101137,Apple,Home,2.9,Average quality,2025-12-13
+101138,Dell,Electronics,2.6,Meets expectations,2025-12-01
+101139,Apple,Home,3.4,Not worth the price,2025-12-20
+101140,Samsung,Fashion,4.1,Quality is really good,2025-10-28
+101141,Apple,Fashion,4.4,Poor quality,2025-10-26
+101142,Boat,Electronics,3.8,Quality is really good,2025-11-09
+101143,Apple,Home,2.6,Not worth the price,2025-11-30
+101144,Puma,Appliances,4.0,Decent for the price,2025-11-16
+101145,LG,Electronics,2.8,Poor quality,2025-11-01
+101146,Puma,Electronics,3.8,Highly recommended,2025-10-29
+101147,Nike,Fashion,3.7,Very disappointed,2025-12-10
+101148,Dell,Appliances,2.8,Average quality,2025-11-17
+101149,Boat,Home,3.8,Product is okay,2025-11-07
+101150,HP,Electronics,3.3,Bad experience,2025-11-16
+101151,Apple,Fashion,4.9,Works perfectly,2025-12-02
+101152,Dell,Electronics,4.8,Product is okay,2025-12-17
+101153,Boat,Electronics,3.2,Works perfectly,2025-11-06
+101154,Puma,Appliances,2.8,Decent for the price,2025-11-02
+101155,Nike,Fashion,4.2,Worth the money,2025-11-06
+101156,HP,Fashion,3.7,Meets expectations,2025-11-18
+101157,Nike,Home,3.8,Average quality,2025-12-13
+101158,Boat,Fashion,3.6,Bad experience,2025-11-13
+101159,Sony,Appliances,2.9,Product is okay,2025-10-30
+101160,Nike,Appliances,4.9,Stopped working quickly,2025-12-14
+101161,Boat,Fashion,4.8,Worth the money,2025-11-15
+101162,Samsung,Appliances,2.6,Average quality,2025-11-07
+101163,Samsung,Fashion,2.9,Average quality,2025-12-06
+101164,HP,Appliances,3.2,Very disappointed,2025-11-15
+101165,HP,Appliances,2.5,Decent for the price,2025-11-30
+101166,HP,Electronics,3.9,Works perfectly,2025-11-19
+101167,Sony,Home,4.4,Average quality,2025-11-23
+101168,Puma,Appliances,2.9,Bad experience,2025-12-11
+101169,LG,Fashion,3.3,Not worth the price,2025-11-25
+101170,Nike,Appliances,3.2,Meets expectations,2025-11-22
+101171,Apple,Appliances,2.8,Stopped working quickly,2025-11-06
+101172,Dell,Fashion,3.9,Decent for the price,2025-10-27
+101173,Apple,Home,2.9,Decent for the price,2025-12-15
+101174,Samsung,Electronics,2.8,"Not bad, not great",2025-12-09
+101175,Sony,Appliances,2.5,Not worth the price,2025-11-13
+101176,Nike,Fashion,4.3,"Excellent product, very satisfied",2025-11-09
+101177,Boat,Appliances,4.8,Very disappointed,2025-12-22
+101178,Dell,Home,4.1,Very disappointed,2025-11-12
+101179,Sony,Home,3.1,Decent for the price,2025-10-31
+101180,Nike,Fashion,5.0,Not worth the price,2025-11-02
+101181,Sony,Home,2.8,Meets expectations,2025-11-20
+101182,LG,Home,4.1,Product is okay,2025-12-01
+101183,Nike,Appliances,5.0,Decent for the price,2025-12-16
+101184,HP,Electronics,3.4,Worth the money,2025-11-07
+101185,Samsung,Fashion,2.6,Product is okay,2025-12-15
+101186,Apple,Appliances,4.9,Bad experience,2025-12-15
+101187,Dell,Appliances,4.0,Worth the money,2025-11-05
+101188,LG,Appliances,2.5,Not worth the price,2025-12-03
+101189,LG,Home,4.8,Works perfectly,2025-12-24
+101190,Sony,Electronics,3.8,Worth the money,2025-11-04
+101191,Apple,Electronics,4.3,Poor quality,2025-11-11
+101192,Nike,Appliances,4.6,Worth the money,2025-12-05
+101193,Puma,Fashion,3.5,Bad experience,2025-10-28
+101194,LG,Electronics,3.5,"Not bad, not great",2025-11-30
+101195,Puma,Electronics,4.9,Meets expectations,2025-11-17
+101196,LG,Fashion,2.8,Decent for the price,2025-11-05
+101197,Dell,Appliances,4.8,Stopped working quickly,2025-10-26
+101198,Boat,Fashion,2.7,Worth the money,2025-10-31
+101199,HP,Home,2.8,"Not bad, not great",2025-12-25
+101200,Nike,Home,3.8,Not worth the price,2025-11-20
+101201,Dell,Electronics,4.9,"Not bad, not great",2025-12-01
+101202,Dell,Electronics,3.2,Highly recommended,2025-12-06
+101203,LG,Home,3.0,Average quality,2025-12-04
+101204,Puma,Fashion,4.7,Worth the money,2025-11-13
+101205,Boat,Fashion,4.2,Product is okay,2025-11-25
+101206,Sony,Appliances,2.6,"Not bad, not great",2025-11-12
+101207,Apple,Fashion,4.5,Bad experience,2025-10-29
+101208,Samsung,Fashion,2.6,Product is okay,2025-11-26
+101209,LG,Appliances,3.5,Worth the money,2025-11-22
+101210,HP,Home,4.7,Highly recommended,2025-11-05
+101211,Samsung,Home,4.1,Highly recommended,2025-11-14
+101212,Nike,Appliances,4.7,Bad experience,2025-11-03
+101213,HP,Home,4.4,Decent for the price,2025-11-01
+101214,Sony,Electronics,4.2,Worth the money,2025-12-12
+101215,LG,Electronics,4.9,"Excellent product, very satisfied",2025-12-23
+101216,Nike,Electronics,4.0,Works perfectly,2025-10-30
+101217,Apple,Electronics,3.8,Poor quality,2025-12-06
+101218,Dell,Fashion,4.3,Product is okay,2025-11-19
+101219,Boat,Fashion,3.6,"Not bad, not great",2025-11-17
+101220,Apple,Electronics,4.4,"Not bad, not great",2025-11-29
+101221,Puma,Appliances,4.2,"Excellent product, very satisfied",2025-12-13
+101222,Samsung,Appliances,4.1,Product is okay,2025-12-14
+101223,Nike,Home,3.7,Works perfectly,2025-12-05
+101224,Puma,Appliances,4.7,Works perfectly,2025-12-18
+101225,Nike,Fashion,4.2,Meets expectations,2025-11-23
+101226,Dell,Home,3.1,Meets expectations,2025-12-19
+101227,HP,Electronics,3.2,Highly recommended,2025-12-18
+101228,Sony,Appliances,3.0,Bad experience,2025-12-01
+101229,Dell,Fashion,4.1,Product is okay,2025-11-14
+101230,Samsung,Electronics,3.4,Poor quality,2025-12-21
+101231,Nike,Home,4.3,Average quality,2025-12-09
+101232,Dell,Appliances,3.1,Decent for the price,2025-12-01
+101233,Dell,Home,4.2,"Excellent product, very satisfied",2025-12-05
+101234,Nike,Electronics,4.5,Very disappointed,2025-12-05
+101235,Dell,Fashion,3.1,Bad experience,2025-11-24
+101236,LG,Fashion,4.1,Bad experience,2025-11-18
+101237,Samsung,Fashion,4.8,Product is okay,2025-12-10
+101238,Puma,Fashion,4.4,Average quality,2025-12-12
+101239,Puma,Home,3.1,Worth the money,2025-12-21
+101240,Dell,Appliances,4.6,Quality is really good,2025-10-27
+101241,Puma,Fashion,4.9,Meets expectations,2025-11-20
+101242,LG,Fashion,2.8,Not worth the price,2025-11-15
+101243,LG,Fashion,4.5,Decent for the price,2025-12-25
+101244,Apple,Appliances,4.1,Stopped working quickly,2025-11-01
+101245,Nike,Home,5.0,Product is okay,2025-11-12
+101246,Puma,Electronics,3.7,Quality is really good,2025-12-16
+101247,LG,Appliances,4.9,Decent for the price,2025-11-12
+101248,Dell,Fashion,4.3,"Excellent product, very satisfied",2025-10-27
+101249,Boat,Appliances,4.4,Very disappointed,2025-12-13
+101250,Nike,Fashion,2.9,Works perfectly,2025-12-13
+101251,Boat,Electronics,3.1,Very disappointed,2025-12-10
+101252,Nike,Home,3.6,Stopped working quickly,2025-12-02
+101253,Samsung,Appliances,4.6,"Excellent product, very satisfied",2025-12-18
+101254,Nike,Fashion,4.3,Not worth the price,2025-12-11
+101255,Puma,Home,4.4,Decent for the price,2025-12-14
+101256,Apple,Appliances,4.2,Quality is really good,2025-12-11
+101257,Samsung,Appliances,4.0,Meets expectations,2025-11-08
+101258,Dell,Electronics,3.9,Average quality,2025-12-24
+101259,Boat,Fashion,4.6,Stopped working quickly,2025-10-27
+101260,Samsung,Electronics,3.5,Highly recommended,2025-10-26
+101261,Sony,Home,2.9,Meets expectations,2025-11-11
+101262,Nike,Home,4.3,Bad experience,2025-11-10
+101263,Samsung,Appliances,4.4,Product is okay,2025-11-16
+101264,Samsung,Home,3.8,Poor quality,2025-12-02
+101265,Dell,Home,4.2,Works perfectly,2025-12-17
+101266,Samsung,Home,4.8,Very disappointed,2025-11-23
+101267,LG,Fashion,3.0,Average quality,2025-12-21
+101268,Boat,Fashion,2.7,Works perfectly,2025-10-29
+101269,Sony,Fashion,4.5,Highly recommended,2025-11-14
+101270,Boat,Fashion,4.2,Poor quality,2025-10-30
+101271,Puma,Fashion,4.7,Product is okay,2025-11-04
+101272,Dell,Electronics,4.8,Average quality,2025-11-13
+101273,HP,Home,3.9,Not worth the price,2025-10-30
+101274,LG,Appliances,3.8,Works perfectly,2025-12-07
+101275,HP,Fashion,3.7,Poor quality,2025-11-25
+101276,Nike,Home,3.6,Very disappointed,2025-11-20
+101277,LG,Home,2.9,"Not bad, not great",2025-11-25
+101278,HP,Fashion,2.7,Very disappointed,2025-12-24
+101279,HP,Electronics,4.0,Not worth the price,2025-12-19
+101280,Nike,Home,2.6,Product is okay,2025-11-12
+101281,HP,Appliances,3.2,Product is okay,2025-12-06
+101282,Dell,Appliances,2.5,Quality is really good,2025-11-29
+101283,Sony,Fashion,4.8,Not worth the price,2025-11-01
+101284,Nike,Electronics,4.5,"Not bad, not great",2025-11-20
+101285,Puma,Home,4.6,Bad experience,2025-12-09
+101286,Samsung,Electronics,2.7,Worth the money,2025-11-19
+101287,Samsung,Appliances,2.8,Highly recommended,2025-10-28
+101288,Samsung,Appliances,4.1,Quality is really good,2025-12-03
+101289,Puma,Home,5.0,Stopped working quickly,2025-12-17
+101290,Nike,Home,3.0,Stopped working quickly,2025-11-20
+101291,Samsung,Fashion,4.7,Decent for the price,2025-10-27
+101292,HP,Electronics,4.9,Meets expectations,2025-11-29
+101293,Samsung,Electronics,2.6,Average quality,2025-12-01
+101294,LG,Fashion,3.2,Not worth the price,2025-12-18
+101295,Boat,Home,3.9,"Excellent product, very satisfied",2025-11-10
+101296,Samsung,Appliances,2.9,Average quality,2025-12-02
+101297,Boat,Appliances,4.6,Not worth the price,2025-11-16
+101298,Apple,Fashion,3.8,Works perfectly,2025-12-03
+101299,LG,Home,2.5,Meets expectations,2025-12-01
+101300,Boat,Home,4.2,Very disappointed,2025-10-31
+101301,LG,Appliances,3.1,"Not bad, not great",2025-12-08
+101302,Boat,Electronics,2.5,Poor quality,2025-12-15
+101303,Apple,Fashion,3.1,Stopped working quickly,2025-12-04
+101304,Nike,Appliances,4.0,Works perfectly,2025-12-16
+101305,Sony,Home,4.6,Product is okay,2025-12-19
+101306,Nike,Electronics,4.2,Product is okay,2025-12-04
+101307,Nike,Electronics,3.1,Stopped working quickly,2025-11-02
+101308,Dell,Fashion,4.2,Bad experience,2025-11-19
+101309,Puma,Home,3.3,Average quality,2025-11-30
+101310,Sony,Home,3.4,Works perfectly,2025-11-14
+101311,Nike,Home,2.8,Worth the money,2025-11-26
+101312,Nike,Electronics,3.8,Product is okay,2025-12-25
+101313,Boat,Electronics,2.9,Bad experience,2025-12-14
+101314,Sony,Appliances,4.1,Bad experience,2025-11-17
+101315,Apple,Electronics,2.7,Highly recommended,2025-11-10
+101316,LG,Appliances,4.3,Highly recommended,2025-11-14
+101317,Boat,Electronics,3.4,Not worth the price,2025-11-22
+101318,Apple,Fashion,2.7,Worth the money,2025-12-22
+101319,Puma,Fashion,4.7,Meets expectations,2025-10-31
+101320,Apple,Electronics,4.9,Worth the money,2025-11-03
+101321,LG,Fashion,4.9,Works perfectly,2025-10-30
+101322,Nike,Appliances,4.0,Meets expectations,2025-11-27
+101323,Boat,Home,4.8,Highly recommended,2025-12-21
+101324,Nike,Fashion,4.4,Product is okay,2025-12-22
+101325,Nike,Electronics,3.5,"Excellent product, very satisfied",2025-11-08
+101326,Nike,Appliances,3.7,Meets expectations,2025-11-10
+101327,Apple,Home,4.8,Works perfectly,2025-12-20
+101328,Dell,Fashion,3.5,Meets expectations,2025-12-15
+101329,HP,Appliances,4.1,Bad experience,2025-12-25
+101330,Dell,Fashion,4.8,Quality is really good,2025-11-01
+101331,Apple,Appliances,3.3,"Excellent product, very satisfied",2025-12-07
+101332,Nike,Fashion,3.8,Stopped working quickly,2025-11-08
+101333,Dell,Electronics,4.9,Poor quality,2025-11-22
+101334,Nike,Home,2.9,Works perfectly,2025-10-30
+101335,Boat,Electronics,3.3,"Not bad, not great",2025-10-31
+101336,Apple,Fashion,4.9,Stopped working quickly,2025-11-24
+101337,Apple,Fashion,5.0,Not worth the price,2025-12-20
+101338,Samsung,Home,5.0,Works perfectly,2025-12-09
+101339,Boat,Home,3.5,Highly recommended,2025-12-24
+101340,Apple,Fashion,4.2,Bad experience,2025-11-16
+101341,Dell,Fashion,3.4,"Excellent product, very satisfied",2025-11-30
+101342,Sony,Appliances,2.9,Worth the money,2025-11-30
+101343,Nike,Home,4.3,Works perfectly,2025-10-27
+101344,HP,Home,4.4,Bad experience,2025-11-18
+101345,Samsung,Electronics,4.6,"Not bad, not great",2025-11-15
+101346,Samsung,Appliances,3.0,Highly recommended,2025-12-24
+101347,Puma,Electronics,4.2,Not worth the price,2025-11-15
+101348,Apple,Home,4.2,Not worth the price,2025-12-17
+101349,Sony,Appliances,4.2,Highly recommended,2025-12-07
+101350,Sony,Home,3.8,Bad experience,2025-12-19
+101351,Samsung,Electronics,4.9,Meets expectations,2025-11-14
+101352,Samsung,Home,4.7,Worth the money,2025-11-10
+101353,Dell,Appliances,3.4,Meets expectations,2025-11-15
+101354,Samsung,Home,3.9,Highly recommended,2025-11-15
+101355,Dell,Appliances,4.3,Bad experience,2025-11-15
+101356,Boat,Appliances,3.2,Works perfectly,2025-11-30
+101357,Apple,Electronics,3.0,Bad experience,2025-12-08
+101358,Boat,Appliances,3.3,Poor quality,2025-11-05
+101359,Boat,Electronics,3.5,Stopped working quickly,2025-12-21
+101360,Apple,Home,4.0,Meets expectations,2025-12-15
+101361,Samsung,Home,3.9,Decent for the price,2025-12-23
+101362,Samsung,Electronics,4.5,Quality is really good,2025-11-12
+101363,Puma,Fashion,2.8,Decent for the price,2025-10-28
+101364,Puma,Electronics,3.3,Quality is really good,2025-12-18
+101365,HP,Electronics,4.6,Meets expectations,2025-11-21
+101366,Apple,Electronics,4.2,Product is okay,2025-12-15
+101367,LG,Electronics,2.6,Poor quality,2025-11-13
+101368,HP,Appliances,3.5,Poor quality,2025-11-14
+101369,Puma,Home,4.0,Meets expectations,2025-10-27
+101370,HP,Electronics,3.7,"Not bad, not great",2025-12-15
+101371,Nike,Home,3.4,Meets expectations,2025-12-16
+101372,Boat,Appliances,3.4,Works perfectly,2025-12-06
+101373,Dell,Appliances,3.5,Very disappointed,2025-10-30
+101374,Nike,Fashion,4.3,Stopped working quickly,2025-12-20
+101375,Samsung,Appliances,2.7,Quality is really good,2025-11-19
+101376,LG,Electronics,4.4,Quality is really good,2025-12-24
+101377,Nike,Appliances,4.6,"Not bad, not great",2025-11-17
+101378,Dell,Home,3.0,Bad experience,2025-11-20
+101379,Sony,Home,3.2,Works perfectly,2025-11-19
+101380,HP,Home,4.9,Poor quality,2025-11-04
+101381,LG,Home,2.7,"Not bad, not great",2025-11-16
+101382,LG,Home,2.8,Worth the money,2025-11-10
+101383,Dell,Appliances,3.2,Decent for the price,2025-12-14
+101384,HP,Home,2.9,Highly recommended,2025-11-25
+101385,Nike,Electronics,3.9,Bad experience,2025-10-27
+101386,LG,Appliances,4.3,Product is okay,2025-12-17
+101387,Dell,Home,4.3,Average quality,2025-12-14
+101388,Apple,Home,3.6,Meets expectations,2025-12-22
+101389,Samsung,Electronics,4.9,Very disappointed,2025-12-22
+101390,Dell,Fashion,4.4,Very disappointed,2025-12-16
+101391,HP,Home,4.0,Meets expectations,2025-12-08
+101392,HP,Fashion,4.2,Meets expectations,2025-11-30
+101393,Sony,Electronics,3.9,Works perfectly,2025-10-28
+101394,Samsung,Home,3.8,Quality is really good,2025-12-22
+101395,Samsung,Electronics,4.7,Poor quality,2025-10-27
+101396,Apple,Electronics,3.3,Worth the money,2025-11-25
+101397,Dell,Electronics,4.8,Works perfectly,2025-12-06
+101398,Samsung,Electronics,2.6,Bad experience,2025-11-17
+101399,Dell,Home,4.0,Stopped working quickly,2025-12-22
+101400,HP,Home,3.3,Meets expectations,2025-11-25
+101401,LG,Fashion,4.3,Not worth the price,2025-11-19
+101402,Apple,Fashion,3.8,Meets expectations,2025-10-31
+101403,Dell,Appliances,3.0,Very disappointed,2025-12-09
+101404,Boat,Appliances,4.0,"Not bad, not great",2025-12-14
+101405,Boat,Appliances,3.5,Bad experience,2025-12-11
+101406,Dell,Electronics,4.2,Product is okay,2025-12-09
+101407,Boat,Home,4.6,Quality is really good,2025-11-12
+101408,Samsung,Fashion,3.2,Decent for the price,2025-11-03
+101409,Nike,Appliances,3.1,Works perfectly,2025-11-30
+101410,Puma,Electronics,4.1,Average quality,2025-11-30
+101411,HP,Fashion,3.2,Highly recommended,2025-12-17
+101412,Dell,Home,3.1,Poor quality,2025-12-07
+101413,Nike,Appliances,3.0,Stopped working quickly,2025-12-07
+101414,Sony,Fashion,3.9,Worth the money,2025-11-05
+101415,Sony,Home,2.6,"Excellent product, very satisfied",2025-11-17
+101416,Apple,Appliances,3.1,Quality is really good,2025-12-01
+101417,Nike,Fashion,3.1,Bad experience,2025-11-03
+101418,Nike,Electronics,4.0,"Not bad, not great",2025-12-08
+101419,LG,Electronics,4.3,Worth the money,2025-11-25
+101420,LG,Electronics,3.4,Not worth the price,2025-11-09
+101421,Sony,Appliances,3.2,Decent for the price,2025-11-07
+101422,HP,Appliances,4.6,Poor quality,2025-12-25
+101423,HP,Electronics,3.0,"Excellent product, very satisfied",2025-12-16
+101424,Sony,Home,3.0,Decent for the price,2025-12-11
+101425,Nike,Home,3.9,Bad experience,2025-12-17
+101426,HP,Electronics,3.3,"Not bad, not great",2025-12-14
+101427,Puma,Electronics,2.8,Product is okay,2025-12-22
+101428,Sony,Home,3.0,Decent for the price,2025-11-18
+101429,Boat,Electronics,3.5,Bad experience,2025-11-20
+101430,Dell,Appliances,3.4,Poor quality,2025-11-27
+101431,Nike,Home,3.7,"Excellent product, very satisfied",2025-12-17
+101432,HP,Home,4.4,Not worth the price,2025-12-20
+101433,Puma,Appliances,4.3,Not worth the price,2025-12-06
+101434,HP,Appliances,3.6,Quality is really good,2025-12-21
+101435,LG,Home,3.8,Meets expectations,2025-10-26
+101436,Samsung,Electronics,4.6,Product is okay,2025-12-15
+101437,Apple,Home,4.4,Quality is really good,2025-12-21
+101438,Nike,Appliances,4.5,Quality is really good,2025-11-07
+101439,Boat,Electronics,4.5,"Excellent product, very satisfied",2025-11-02
+101440,Dell,Appliances,4.6,Highly recommended,2025-12-25
+101441,Puma,Fashion,2.7,Bad experience,2025-11-24
+101442,Samsung,Appliances,3.4,Poor quality,2025-11-17
+101443,Sony,Appliances,3.9,Stopped working quickly,2025-12-15
+101444,HP,Fashion,3.9,Worth the money,2025-10-28
+101445,LG,Electronics,3.5,Highly recommended,2025-11-13
+101446,Puma,Appliances,4.4,Bad experience,2025-11-07
+101447,Puma,Fashion,4.2,"Not bad, not great",2025-12-09
+101448,Dell,Appliances,3.8,Not worth the price,2025-12-04
+101449,Apple,Appliances,4.1,Quality is really good,2025-12-01
+101450,Boat,Fashion,4.9,Bad experience,2025-11-16
+101451,HP,Home,2.9,Not worth the price,2025-11-25
+101452,HP,Electronics,3.7,Very disappointed,2025-11-02
+101453,LG,Home,4.3,Average quality,2025-11-17
+101454,HP,Fashion,3.2,Bad experience,2025-12-10
+101455,LG,Fashion,4.0,Product is okay,2025-12-25
+101456,Samsung,Home,3.2,Worth the money,2025-12-06
+101457,Boat,Home,4.3,"Not bad, not great",2025-11-29
+101458,HP,Appliances,4.4,Worth the money,2025-11-28
+101459,HP,Home,3.4,Quality is really good,2025-11-01
+101460,Boat,Fashion,4.7,Works perfectly,2025-11-19
+101461,HP,Appliances,3.9,Average quality,2025-11-22
+101462,Apple,Fashion,4.9,"Not bad, not great",2025-11-13
+101463,Nike,Home,4.4,Poor quality,2025-12-23
+101464,HP,Appliances,2.9,Quality is really good,2025-11-30
+101465,LG,Appliances,5.0,Very disappointed,2025-11-17
+101466,Boat,Fashion,4.4,Worth the money,2025-11-22
+101467,Apple,Home,4.3,Works perfectly,2025-11-25
+101468,LG,Electronics,3.6,Not worth the price,2025-11-05
+101469,Nike,Fashion,4.8,Average quality,2025-12-09
+101470,Sony,Electronics,2.7,Very disappointed,2025-10-28
+101471,HP,Home,4.3,Stopped working quickly,2025-11-18
+101472,Sony,Fashion,4.9,Product is okay,2025-11-21
+101473,Nike,Home,3.0,"Excellent product, very satisfied",2025-12-05
+101474,Dell,Electronics,4.2,Quality is really good,2025-11-22
+101475,Sony,Home,3.9,Quality is really good,2025-11-05
+101476,Puma,Electronics,4.9,Not worth the price,2025-10-31
+101477,Samsung,Fashion,3.0,"Excellent product, very satisfied",2025-11-27
+101478,Nike,Appliances,3.1,Bad experience,2025-11-11
+101479,Nike,Home,3.3,"Excellent product, very satisfied",2025-12-19
+101480,Samsung,Fashion,4.3,"Not bad, not great",2025-12-15
+101481,Sony,Fashion,2.7,Bad experience,2025-12-17
+101482,Dell,Appliances,2.9,Worth the money,2025-11-23
+101483,Puma,Electronics,4.6,Poor quality,2025-11-07
+101484,Dell,Fashion,2.8,Stopped working quickly,2025-12-20
+101485,HP,Appliances,4.8,Meets expectations,2025-11-11
+101486,Samsung,Home,4.9,Decent for the price,2025-12-25
+101487,HP,Appliances,3.7,Bad experience,2025-12-14
+101488,Apple,Home,2.5,Average quality,2025-12-23
+101489,LG,Fashion,3.7,Works perfectly,2025-11-07
+101490,Boat,Home,2.6,Not worth the price,2025-11-25
+101491,LG,Fashion,2.7,Average quality,2025-11-11
+101492,Apple,Fashion,3.5,Stopped working quickly,2025-12-24
+101493,HP,Fashion,4.6,Decent for the price,2025-11-06
+101494,Samsung,Appliances,2.6,Decent for the price,2025-12-12
+101495,Sony,Appliances,4.8,Worth the money,2025-12-08
+101496,Nike,Appliances,3.2,Highly recommended,2025-12-22
+101497,Nike,Home,4.7,Works perfectly,2025-11-01
+101498,Boat,Home,3.2,Bad experience,2025-11-13
+101499,Sony,Fashion,2.7,Meets expectations,2025-11-28
+101500,Nike,Fashion,4.0,"Excellent product, very satisfied",2025-11-10
+101501,Sony,Fashion,4.6,Bad experience,2025-12-18
+101502,Samsung,Home,4.3,Poor quality,2025-11-26
+101503,Dell,Home,3.7,Stopped working quickly,2025-11-12
+101504,Apple,Fashion,4.9,Worth the money,2025-12-20
+101505,Dell,Home,2.9,Works perfectly,2025-10-31
+101506,Nike,Appliances,4.8,Highly recommended,2025-11-23
+101507,Nike,Home,2.6,Average quality,2025-12-23
+101508,LG,Electronics,2.8,Not worth the price,2025-12-09
+101509,Boat,Home,3.9,Bad experience,2025-11-03
+101510,Sony,Electronics,4.4,Poor quality,2025-12-16
+101511,Puma,Electronics,4.6,Works perfectly,2025-12-22
+101512,Puma,Fashion,3.3,Stopped working quickly,2025-10-31
+101513,LG,Fashion,4.6,Worth the money,2025-11-13
+101514,Apple,Fashion,3.5,Decent for the price,2025-11-23
+101515,HP,Fashion,4.3,Highly recommended,2025-12-14
+101516,Samsung,Electronics,2.6,Poor quality,2025-12-16
+101517,LG,Fashion,4.1,Not worth the price,2025-12-03
+101518,Dell,Electronics,4.2,"Not bad, not great",2025-12-11
+101519,Nike,Appliances,3.9,Quality is really good,2025-11-12
+101520,Puma,Appliances,3.7,Worth the money,2025-12-15
+101521,HP,Fashion,3.1,Poor quality,2025-12-20
+101522,LG,Home,4.2,Not worth the price,2025-11-10
+101523,Sony,Appliances,4.5,Very disappointed,2025-10-31
+101524,Apple,Fashion,3.1,Works perfectly,2025-11-21
+101525,Dell,Electronics,3.4,"Excellent product, very satisfied",2025-12-16
+101526,Dell,Electronics,3.5,Quality is really good,2025-11-12
+101527,Dell,Appliances,2.8,Bad experience,2025-11-17
+101528,Sony,Electronics,4.9,Quality is really good,2025-11-28
+101529,Nike,Home,3.5,Quality is really good,2025-11-18
+101530,LG,Electronics,2.7,Not worth the price,2025-12-07
+101531,Sony,Home,4.2,Quality is really good,2025-11-20
+101532,HP,Appliances,2.8,Quality is really good,2025-12-13
+101533,Puma,Appliances,3.1,Stopped working quickly,2025-12-23
+101534,Sony,Appliances,2.8,Works perfectly,2025-11-06
+101535,HP,Fashion,3.9,Works perfectly,2025-11-21
+101536,Apple,Home,4.4,Decent for the price,2025-11-23
+101537,Dell,Fashion,3.2,Stopped working quickly,2025-10-27
+101538,Sony,Fashion,3.6,Poor quality,2025-10-28
+101539,Boat,Fashion,2.9,Product is okay,2025-12-11
+101540,HP,Fashion,2.7,Stopped working quickly,2025-12-01
+101541,Puma,Home,3.5,Not worth the price,2025-11-24
+101542,Apple,Appliances,3.0,Meets expectations,2025-12-15
+101543,HP,Fashion,2.7,"Excellent product, very satisfied",2025-12-19
+101544,Boat,Fashion,5.0,Worth the money,2025-12-20
+101545,Samsung,Electronics,4.2,Worth the money,2025-12-20
+101546,HP,Electronics,4.6,Works perfectly,2025-11-28
+101547,Sony,Electronics,4.6,Meets expectations,2025-11-05
+101548,HP,Appliances,4.6,Bad experience,2025-11-14
+101549,Sony,Fashion,4.3,Highly recommended,2025-11-06
+101550,Sony,Electronics,4.3,Not worth the price,2025-11-03
+101551,HP,Fashion,4.3,Average quality,2025-11-26
+101552,HP,Fashion,3.5,Highly recommended,2025-11-07
+101553,LG,Fashion,4.0,Decent for the price,2025-12-12
+101554,Dell,Electronics,4.6,Bad experience,2025-11-01
+101555,LG,Home,3.5,Average quality,2025-11-15
+101556,Puma,Home,4.0,"Excellent product, very satisfied",2025-12-07
+101557,Dell,Appliances,2.8,Meets expectations,2025-12-23
+101558,Apple,Home,3.1,Not worth the price,2025-12-15
+101559,HP,Electronics,3.8,Bad experience,2025-11-21
+101560,Puma,Home,4.8,"Not bad, not great",2025-10-26
+101561,Puma,Fashion,4.9,Bad experience,2025-12-15
+101562,Puma,Fashion,4.1,Not worth the price,2025-10-29
+101563,Dell,Fashion,3.6,"Not bad, not great",2025-12-19
+101564,HP,Home,3.1,"Excellent product, very satisfied",2025-11-24
+101565,Puma,Electronics,3.6,Very disappointed,2025-11-11
+101566,Sony,Home,2.6,Stopped working quickly,2025-11-15
+101567,Samsung,Home,2.6,Quality is really good,2025-12-19
+101568,Dell,Appliances,3.5,Not worth the price,2025-11-23
+101569,Puma,Home,4.6,Very disappointed,2025-12-05
+101570,Puma,Appliances,4.5,"Not bad, not great",2025-11-08
+101571,Apple,Electronics,3.8,"Excellent product, very satisfied",2025-12-15
+101572,Samsung,Home,3.6,Very disappointed,2025-12-16
+101573,Boat,Electronics,3.9,Bad experience,2025-11-02
+101574,Boat,Electronics,4.3,Worth the money,2025-12-20
+101575,Dell,Home,4.1,Works perfectly,2025-11-04
+101576,LG,Electronics,3.9,Worth the money,2025-12-14
+101577,Apple,Home,2.9,Decent for the price,2025-12-17
+101578,LG,Appliances,2.8,Decent for the price,2025-11-26
+101579,Sony,Electronics,4.5,Poor quality,2025-12-18
+101580,Puma,Electronics,3.8,Worth the money,2025-12-16
+101581,Samsung,Electronics,3.9,Decent for the price,2025-11-28
+101582,Boat,Electronics,3.1,Bad experience,2025-12-13
+101583,Sony,Electronics,3.0,Worth the money,2025-12-07
+101584,Boat,Appliances,4.6,"Excellent product, very satisfied",2025-12-06
+101585,LG,Fashion,2.9,Stopped working quickly,2025-11-13
+101586,LG,Appliances,3.8,Highly recommended,2025-11-28
+101587,LG,Electronics,4.1,Meets expectations,2025-11-21
+101588,Dell,Appliances,3.4,Not worth the price,2025-12-13
+101589,Sony,Appliances,3.6,Stopped working quickly,2025-10-29
+101590,Boat,Home,4.8,Average quality,2025-12-16
+101591,Dell,Fashion,3.0,Bad experience,2025-12-16
+101592,Dell,Appliances,4.6,Meets expectations,2025-12-25
+101593,Apple,Appliances,4.2,"Not bad, not great",2025-12-23
+101594,Samsung,Home,2.8,Highly recommended,2025-12-10
+101595,Sony,Electronics,2.6,Worth the money,2025-11-16
+101596,Nike,Appliances,2.8,Average quality,2025-11-20
+101597,Puma,Home,3.8,"Not bad, not great",2025-12-24
+101598,Nike,Electronics,2.8,Poor quality,2025-12-13
+101599,Nike,Electronics,3.8,Bad experience,2025-12-05
+101600,Samsung,Appliances,4.0,Worth the money,2025-11-11
+101601,Puma,Fashion,4.0,Worth the money,2025-11-09
+101602,HP,Fashion,4.6,"Excellent product, very satisfied",2025-11-22
+101603,Puma,Fashion,3.4,Highly recommended,2025-11-12
+101604,Dell,Home,4.3,Works perfectly,2025-12-14
+101605,Dell,Home,3.4,Worth the money,2025-12-01
+101606,Samsung,Appliances,2.6,Worth the money,2025-11-14
+101607,Boat,Home,4.6,Highly recommended,2025-11-30
+101608,Sony,Fashion,3.2,Worth the money,2025-12-05
+101609,Dell,Electronics,2.9,Poor quality,2025-11-02
+101610,Dell,Fashion,3.2,Product is okay,2025-12-09
+101611,LG,Home,4.9,"Not bad, not great",2025-12-18
+101612,Nike,Appliances,4.5,Quality is really good,2025-11-08
+101613,LG,Fashion,4.7,"Not bad, not great",2025-11-25
+101614,Sony,Fashion,3.0,Worth the money,2025-11-05
+101615,Sony,Appliances,4.9,Quality is really good,2025-11-26
+101616,Nike,Fashion,2.6,Average quality,2025-12-22
+101617,Sony,Electronics,4.5,Product is okay,2025-12-22
+101618,Nike,Fashion,2.9,"Excellent product, very satisfied",2025-12-08
+101619,Boat,Home,2.9,Bad experience,2025-11-05
+101620,LG,Appliances,2.7,Quality is really good,2025-12-05
+101621,Nike,Home,4.2,Product is okay,2025-11-25
+101622,Puma,Home,3.8,Worth the money,2025-11-09
+101623,Nike,Appliances,4.1,Works perfectly,2025-12-11
+101624,LG,Electronics,3.9,Quality is really good,2025-12-17
+101625,Nike,Electronics,4.5,Worth the money,2025-12-05
+101626,Dell,Home,3.0,Stopped working quickly,2025-12-24
+101627,Puma,Electronics,3.0,Highly recommended,2025-12-07
+101628,LG,Home,4.0,Stopped working quickly,2025-12-04
+101629,Boat,Home,4.7,Works perfectly,2025-10-27
+101630,HP,Fashion,2.8,Highly recommended,2025-12-17
+101631,Puma,Appliances,2.6,Worth the money,2025-11-02
+101632,Apple,Electronics,4.7,Quality is really good,2025-12-21
+101633,Samsung,Fashion,3.5,Quality is really good,2025-11-04
+101634,Dell,Home,4.2,Not worth the price,2025-11-15
+101635,LG,Electronics,4.7,Highly recommended,2025-11-05
+101636,Apple,Fashion,4.5,Works perfectly,2025-11-27
+101637,Boat,Electronics,3.4,Highly recommended,2025-11-09
+101638,HP,Fashion,2.8,Highly recommended,2025-11-02
+101639,Puma,Electronics,4.6,Not worth the price,2025-11-06
+101640,HP,Fashion,2.6,Very disappointed,2025-12-01
+101641,LG,Fashion,4.3,Highly recommended,2025-11-20
+101642,Dell,Home,2.7,Worth the money,2025-11-05
+101643,Dell,Electronics,4.8,Product is okay,2025-11-02
+101644,Puma,Home,4.5,Bad experience,2025-11-29
+101645,Apple,Electronics,2.8,Product is okay,2025-12-13
+101646,HP,Electronics,4.9,Worth the money,2025-12-23
+101647,HP,Home,4.3,Highly recommended,2025-11-28
+101648,Samsung,Fashion,4.4,Highly recommended,2025-12-12
+101649,Sony,Electronics,3.9,"Not bad, not great",2025-12-06
+101650,Puma,Appliances,4.4,Not worth the price,2025-12-07
+101651,Dell,Home,4.4,Stopped working quickly,2025-11-02
+101652,Nike,Appliances,3.5,"Not bad, not great",2025-11-22
+101653,Boat,Appliances,3.7,Quality is really good,2025-10-30
+101654,Boat,Appliances,4.0,Poor quality,2025-11-19
+101655,LG,Fashion,3.4,Product is okay,2025-11-30
+101656,Dell,Home,4.6,Poor quality,2025-10-29
+101657,LG,Fashion,4.6,Decent for the price,2025-11-01
+101658,Nike,Home,3.9,Poor quality,2025-12-21
+101659,HP,Fashion,4.6,Highly recommended,2025-11-12
+101660,Dell,Electronics,2.7,Meets expectations,2025-11-23
+101661,Nike,Electronics,4.6,Meets expectations,2025-12-12
+101662,Boat,Fashion,2.6,Poor quality,2025-12-23
+101663,Puma,Electronics,2.9,Bad experience,2025-11-09
+101664,Puma,Home,3.5,Not worth the price,2025-11-19
+101665,Apple,Electronics,3.5,Highly recommended,2025-11-20
+101666,Boat,Home,3.9,Quality is really good,2025-11-14
+101667,Nike,Home,3.4,Decent for the price,2025-11-04
+101668,Samsung,Fashion,4.3,Decent for the price,2025-11-24
+101669,Samsung,Appliances,4.8,Stopped working quickly,2025-12-07
+101670,Nike,Home,3.9,Average quality,2025-11-22
+101671,Apple,Appliances,4.2,Highly recommended,2025-11-17
+101672,Puma,Appliances,3.5,Works perfectly,2025-11-24
+101673,Nike,Electronics,3.4,Works perfectly,2025-11-12
+101674,Samsung,Appliances,4.1,Works perfectly,2025-11-16
+101675,Samsung,Fashion,3.2,Poor quality,2025-10-30
+101676,Sony,Electronics,3.7,Bad experience,2025-12-19
+101677,Dell,Home,3.3,Stopped working quickly,2025-11-11
+101678,Nike,Home,3.3,Quality is really good,2025-12-13
+101679,Puma,Fashion,3.5,"Not bad, not great",2025-11-08
+101680,Puma,Fashion,3.4,Worth the money,2025-12-16
+101681,Dell,Appliances,3.2,Average quality,2025-12-03
+101682,Dell,Appliances,4.5,Works perfectly,2025-11-07
+101683,Nike,Appliances,4.8,Highly recommended,2025-11-29
+101684,Dell,Electronics,4.9,Very disappointed,2025-12-13
+101685,Sony,Home,4.3,Very disappointed,2025-11-19
+101686,Sony,Fashion,2.8,Stopped working quickly,2025-11-04
+101687,Puma,Home,4.2,Product is okay,2025-11-27
+101688,Sony,Home,3.3,Product is okay,2025-10-30
+101689,Samsung,Electronics,3.0,Meets expectations,2025-10-27
+101690,LG,Fashion,2.9,Very disappointed,2025-11-22
+101691,Dell,Electronics,4.8,Works perfectly,2025-11-09
+101692,HP,Fashion,3.1,Bad experience,2025-10-26
+101693,Apple,Home,3.9,Highly recommended,2025-11-13
+101694,LG,Fashion,4.7,Works perfectly,2025-11-19
+101695,LG,Appliances,3.6,Works perfectly,2025-12-06
+101696,Apple,Fashion,2.9,"Excellent product, very satisfied",2025-11-03
+101697,Nike,Appliances,4.3,Highly recommended,2025-11-20
+101698,LG,Appliances,4.5,Quality is really good,2025-11-30
+101699,Puma,Appliances,3.0,Quality is really good,2025-12-17
+101700,Puma,Appliances,3.0,Worth the money,2025-11-21
+101701,Sony,Electronics,3.6,Worth the money,2025-11-22
+101702,LG,Home,3.3,Meets expectations,2025-11-24
+101703,Apple,Electronics,3.8,Bad experience,2025-12-03
+101704,Dell,Electronics,2.6,Poor quality,2025-12-22
+101705,Dell,Electronics,3.6,Stopped working quickly,2025-11-05
+101706,Dell,Home,3.7,Stopped working quickly,2025-11-01
+101707,Puma,Fashion,4.5,Product is okay,2025-12-01
+101708,Sony,Home,3.0,Quality is really good,2025-11-18
+101709,Apple,Electronics,4.5,Poor quality,2025-12-21
+101710,Nike,Electronics,4.8,Highly recommended,2025-11-28
+101711,Nike,Appliances,4.7,Decent for the price,2025-12-20
+101712,Sony,Home,2.9,Product is okay,2025-11-21
+101713,Puma,Electronics,2.6,Stopped working quickly,2025-11-30
+101714,Nike,Electronics,4.7,Poor quality,2025-10-30
+101715,Sony,Appliances,3.4,"Not bad, not great",2025-11-10
+101716,Boat,Electronics,3.9,Quality is really good,2025-12-25
+101717,Nike,Appliances,3.5,"Not bad, not great",2025-10-26
+101718,Samsung,Home,3.8,Poor quality,2025-12-15
+101719,Puma,Fashion,4.5,Not worth the price,2025-11-04
+101720,HP,Fashion,3.2,Worth the money,2025-11-13
+101721,Nike,Appliances,3.7,Stopped working quickly,2025-12-09
+101722,Puma,Electronics,4.3,Decent for the price,2025-12-04
+101723,HP,Appliances,2.8,"Not bad, not great",2025-12-21
+101724,Sony,Electronics,3.1,Worth the money,2025-11-10
+101725,Apple,Appliances,3.9,Average quality,2025-11-06
+101726,Dell,Appliances,4.6,Product is okay,2025-11-07
+101727,Puma,Home,4.6,Works perfectly,2025-11-09
+101728,Sony,Home,4.0,Works perfectly,2025-11-21
+101729,HP,Electronics,3.7,Average quality,2025-11-05
+101730,Nike,Appliances,4.1,Average quality,2025-11-20
+101731,Apple,Electronics,4.5,"Excellent product, very satisfied",2025-11-08
+101732,Samsung,Electronics,3.2,Meets expectations,2025-11-12
+101733,Nike,Home,4.8,Stopped working quickly,2025-12-23
+101734,LG,Electronics,3.2,Product is okay,2025-12-18
+101735,Apple,Fashion,4.6,Meets expectations,2025-11-10
+101736,Boat,Appliances,3.4,"Excellent product, very satisfied",2025-12-13
+101737,HP,Fashion,3.2,Bad experience,2025-11-08
+101738,Sony,Fashion,4.4,Stopped working quickly,2025-12-14
+101739,Sony,Electronics,2.8,Bad experience,2025-11-10
+101740,Samsung,Home,3.1,Works perfectly,2025-11-14
+101741,Sony,Electronics,4.6,Bad experience,2025-11-23
+101742,Sony,Appliances,2.6,Very disappointed,2025-11-05
+101743,Boat,Fashion,4.4,Quality is really good,2025-11-25
+101744,Sony,Home,3.7,Not worth the price,2025-11-01
+101745,Samsung,Appliances,3.9,Average quality,2025-12-18
+101746,Sony,Home,3.1,Quality is really good,2025-12-01
+101747,LG,Home,3.5,Bad experience,2025-10-29
+101748,Apple,Electronics,4.4,Average quality,2025-11-19
+101749,Apple,Fashion,3.8,"Not bad, not great",2025-11-22
+101750,Samsung,Fashion,5.0,Bad experience,2025-11-24
+101751,Apple,Fashion,2.9,Product is okay,2025-11-07
+101752,Boat,Home,4.7,Highly recommended,2025-10-29
+101753,LG,Electronics,3.3,Quality is really good,2025-11-26
+101754,LG,Home,4.9,Worth the money,2025-12-11
+101755,LG,Home,3.1,"Not bad, not great",2025-12-18
+101756,Nike,Electronics,4.1,Poor quality,2025-12-02
+101757,Boat,Electronics,3.4,Stopped working quickly,2025-11-05
+101758,Samsung,Fashion,3.4,Average quality,2025-12-23
+101759,LG,Fashion,4.1,Decent for the price,2025-12-04
+101760,Samsung,Appliances,3.2,Meets expectations,2025-12-19
+101761,Boat,Home,4.8,Very disappointed,2025-12-18
+101762,LG,Electronics,4.1,Not worth the price,2025-12-07
+101763,Sony,Home,2.6,Poor quality,2025-11-20
+101764,Dell,Home,5.0,Works perfectly,2025-12-08
+101765,Boat,Electronics,4.8,"Excellent product, very satisfied",2025-12-17
+101766,Nike,Electronics,3.2,Stopped working quickly,2025-11-10
+101767,Puma,Appliances,3.5,"Excellent product, very satisfied",2025-10-31
+101768,Apple,Electronics,3.7,Bad experience,2025-12-18
+101769,Puma,Fashion,4.5,Not worth the price,2025-11-07
+101770,Apple,Appliances,4.8,Stopped working quickly,2025-11-21
+101771,Apple,Appliances,3.2,Quality is really good,2025-12-20
+101772,LG,Fashion,4.1,Product is okay,2025-11-17
+101773,Nike,Appliances,2.8,Average quality,2025-11-11
+101774,Nike,Home,2.6,"Excellent product, very satisfied",2025-10-31
+101775,LG,Electronics,2.8,Highly recommended,2025-11-13
+101776,Sony,Appliances,3.0,Decent for the price,2025-10-26
+101777,Sony,Fashion,4.2,Product is okay,2025-10-31
+101778,Samsung,Appliances,3.2,Decent for the price,2025-11-18
+101779,Nike,Home,2.5,"Excellent product, very satisfied",2025-12-08
+101780,Sony,Appliances,4.6,Stopped working quickly,2025-12-10
+101781,HP,Appliances,4.8,Highly recommended,2025-10-27
+101782,Apple,Electronics,5.0,Worth the money,2025-12-21
+101783,Sony,Electronics,3.8,Average quality,2025-11-04
+101784,Nike,Fashion,4.2,Average quality,2025-11-14
+101785,Sony,Electronics,3.6,Very disappointed,2025-12-18
+101786,Nike,Home,3.3,Works perfectly,2025-11-28
+101787,Sony,Electronics,4.6,Works perfectly,2025-11-07
+101788,Nike,Home,4.0,Poor quality,2025-12-07
+101789,Puma,Electronics,2.5,Stopped working quickly,2025-11-12
+101790,Sony,Electronics,3.3,Not worth the price,2025-10-27
+101791,Apple,Home,4.2,Quality is really good,2025-12-13
+101792,LG,Electronics,2.6,Product is okay,2025-12-15
+101793,Samsung,Appliances,3.3,Very disappointed,2025-11-10
+101794,Nike,Electronics,3.9,Works perfectly,2025-12-13
+101795,Nike,Home,4.9,Not worth the price,2025-10-28
+101796,Puma,Fashion,3.8,Decent for the price,2025-11-22
+101797,Puma,Fashion,4.8,Worth the money,2025-12-16
+101798,Dell,Appliances,3.8,Bad experience,2025-12-16
+101799,Samsung,Home,4.3,Poor quality,2025-12-23
+101800,Sony,Fashion,4.1,"Excellent product, very satisfied",2025-12-24
+101801,Apple,Appliances,4.2,Very disappointed,2025-12-10
+101802,Sony,Home,2.7,Poor quality,2025-11-15
+101803,Boat,Fashion,3.0,"Not bad, not great",2025-10-28
+101804,HP,Home,4.7,Not worth the price,2025-11-14
+101805,Apple,Appliances,3.5,"Excellent product, very satisfied",2025-11-20
+101806,Puma,Fashion,4.1,Not worth the price,2025-11-23
+101807,Samsung,Home,4.2,Decent for the price,2025-12-04
+101808,Puma,Electronics,3.9,Bad experience,2025-12-13
+101809,Nike,Home,4.8,Bad experience,2025-12-03
+101810,Samsung,Appliances,4.2,Poor quality,2025-12-18
+101811,Dell,Appliances,3.8,Poor quality,2025-11-14
+101812,Dell,Home,4.7,Bad experience,2025-11-15
+101813,Boat,Fashion,3.2,Works perfectly,2025-11-29
+101814,Sony,Electronics,3.2,Average quality,2025-12-01
+101815,Apple,Home,3.2,Poor quality,2025-10-29
+101816,Apple,Home,2.9,Average quality,2025-10-30
+101817,HP,Electronics,5.0,Worth the money,2025-11-08
+101818,Nike,Fashion,4.9,Poor quality,2025-11-12
+101819,Puma,Appliances,3.0,Product is okay,2025-11-01
+101820,Puma,Home,4.3,Poor quality,2025-11-11
+101821,Dell,Electronics,4.0,"Not bad, not great",2025-10-26
+101822,Nike,Home,4.2,Worth the money,2025-11-13
+101823,LG,Fashion,2.9,Stopped working quickly,2025-11-09
+101824,Apple,Appliances,3.9,Highly recommended,2025-10-26
+101825,Boat,Appliances,2.5,Average quality,2025-11-23
+101826,Nike,Home,4.0,Product is okay,2025-12-11
+101827,HP,Appliances,4.5,"Excellent product, very satisfied",2025-11-26
+101828,Dell,Home,3.3,Works perfectly,2025-12-14
+101829,LG,Electronics,3.0,Poor quality,2025-11-27
+101830,Puma,Fashion,3.8,Stopped working quickly,2025-11-20
+101831,Sony,Home,2.6,"Not bad, not great",2025-11-06
+101832,Apple,Home,2.7,Average quality,2025-11-12
+101833,Sony,Home,3.6,Highly recommended,2025-10-29
+101834,Nike,Home,3.5,Average quality,2025-12-13
+101835,Boat,Appliances,3.5,Meets expectations,2025-12-16
+101836,Nike,Electronics,3.5,Worth the money,2025-10-29
+101837,Nike,Home,4.3,Meets expectations,2025-11-03
+101838,Boat,Fashion,4.4,Stopped working quickly,2025-11-27
+101839,HP,Electronics,4.1,Very disappointed,2025-12-22
+101840,HP,Home,4.7,Poor quality,2025-12-10
+101841,Samsung,Fashion,3.2,Not worth the price,2025-10-28
+101842,Apple,Electronics,3.3,Stopped working quickly,2025-11-23
+101843,Apple,Appliances,3.4,Very disappointed,2025-11-26
+101844,Boat,Electronics,3.6,Poor quality,2025-11-10
+101845,Sony,Home,2.9,Average quality,2025-12-19
+101846,Puma,Home,3.1,Very disappointed,2025-12-17
+101847,LG,Appliances,3.6,Worth the money,2025-11-10
+101848,Dell,Fashion,2.8,Poor quality,2025-12-03
+101849,Dell,Home,3.2,Not worth the price,2025-11-01
+101850,Apple,Fashion,2.7,Bad experience,2025-11-21
+101851,Boat,Home,2.6,"Not bad, not great",2025-12-01
+101852,LG,Home,3.0,Highly recommended,2025-11-02
+101853,Nike,Home,4.4,"Not bad, not great",2025-12-14
+101854,LG,Appliances,3.4,Quality is really good,2025-10-29
+101855,Boat,Appliances,4.4,Very disappointed,2025-10-26
+101856,Dell,Home,3.4,Highly recommended,2025-11-19
+101857,Samsung,Appliances,3.1,Product is okay,2025-10-26
+101858,Apple,Appliances,4.0,Meets expectations,2025-11-08
+101859,Samsung,Appliances,4.5,Highly recommended,2025-12-02
+101860,Puma,Fashion,4.6,Bad experience,2025-12-08
+101861,Samsung,Fashion,4.9,Stopped working quickly,2025-10-31
+101862,Puma,Fashion,4.5,Average quality,2025-12-17
+101863,Apple,Appliances,2.6,Worth the money,2025-12-23
+101864,LG,Home,4.5,Not worth the price,2025-11-20
+101865,LG,Home,4.0,Stopped working quickly,2025-11-15
+101866,Dell,Appliances,4.3,Bad experience,2025-12-23
+101867,Apple,Appliances,4.2,Poor quality,2025-11-23
+101868,Boat,Electronics,3.6,Decent for the price,2025-11-25
+101869,Sony,Electronics,4.0,Worth the money,2025-11-30
+101870,Sony,Home,4.2,Product is okay,2025-11-08
+101871,Sony,Fashion,3.0,Decent for the price,2025-12-25
+101872,HP,Fashion,4.6,Not worth the price,2025-12-02
+101873,Nike,Electronics,2.9,Works perfectly,2025-12-18
+101874,Dell,Fashion,3.9,"Excellent product, very satisfied",2025-11-03
+101875,Sony,Fashion,4.8,Average quality,2025-12-22
+101876,Nike,Appliances,4.3,Works perfectly,2025-12-21
+101877,LG,Electronics,3.7,Very disappointed,2025-11-22
+101878,LG,Home,2.7,"Excellent product, very satisfied",2025-12-06
+101879,Samsung,Home,2.8,"Not bad, not great",2025-12-14
+101880,Puma,Appliances,4.4,Stopped working quickly,2025-11-04
+101881,Dell,Home,4.9,Not worth the price,2025-11-05
+101882,Puma,Home,2.6,Works perfectly,2025-12-09
+101883,LG,Appliances,4.9,Not worth the price,2025-11-19
+101884,Dell,Home,3.8,Stopped working quickly,2025-11-21
+101885,Nike,Appliances,2.7,Not worth the price,2025-12-04
+101886,LG,Electronics,2.7,"Excellent product, very satisfied",2025-11-12
+101887,Sony,Appliances,2.7,Worth the money,2025-12-21
+101888,HP,Appliances,4.4,"Not bad, not great",2025-10-31
+101889,LG,Appliances,3.2,Decent for the price,2025-12-23
+101890,Nike,Home,3.3,Worth the money,2025-11-17
+101891,Sony,Electronics,4.9,Decent for the price,2025-11-16
+101892,Nike,Home,3.6,"Not bad, not great",2025-12-09
+101893,Dell,Home,3.1,Decent for the price,2025-12-11
+101894,Apple,Appliances,3.7,Average quality,2025-12-06
+101895,Puma,Appliances,4.4,Average quality,2025-12-15
+101896,Nike,Home,3.0,Product is okay,2025-11-25
+101897,Samsung,Appliances,4.9,Poor quality,2025-11-23
+101898,Dell,Home,3.9,"Excellent product, very satisfied",2025-10-29
+101899,LG,Electronics,4.6,"Not bad, not great",2025-12-19
+101900,Boat,Appliances,2.9,Decent for the price,2025-11-20
+101901,Boat,Electronics,2.8,"Excellent product, very satisfied",2025-12-12
+101902,Samsung,Appliances,4.4,Works perfectly,2025-12-17
+101903,Samsung,Fashion,3.5,Works perfectly,2025-12-03
+101904,Dell,Home,4.4,Meets expectations,2025-11-30
+101905,Sony,Appliances,3.3,Worth the money,2025-12-05
+101906,Dell,Home,2.6,Poor quality,2025-12-16
+101907,HP,Home,2.9,"Excellent product, very satisfied",2025-12-25
+101908,Boat,Home,2.7,"Excellent product, very satisfied",2025-11-11
+101909,Sony,Home,3.6,Average quality,2025-12-11
+101910,Nike,Appliances,4.7,Not worth the price,2025-11-13
+101911,Nike,Electronics,4.0,Very disappointed,2025-11-15
+101912,Apple,Electronics,3.6,Highly recommended,2025-12-24
+101913,HP,Home,3.2,Works perfectly,2025-12-24
+101914,Apple,Home,4.9,Works perfectly,2025-12-14
+101915,HP,Electronics,3.1,"Excellent product, very satisfied",2025-12-03
+101916,Sony,Home,3.8,Poor quality,2025-12-19
+101917,Nike,Fashion,4.3,Poor quality,2025-11-25
+101918,LG,Electronics,4.9,Meets expectations,2025-11-24
+101919,Dell,Electronics,4.9,Highly recommended,2025-12-13
+101920,Boat,Electronics,2.9,Quality is really good,2025-10-28
+101921,HP,Fashion,3.7,Average quality,2025-11-06
+101922,Apple,Home,4.9,Very disappointed,2025-11-11
+101923,Puma,Home,4.6,Stopped working quickly,2025-12-17
+101924,Samsung,Electronics,4.8,Product is okay,2025-10-30
+101925,Samsung,Electronics,4.0,"Not bad, not great",2025-11-15
+101926,Nike,Appliances,3.4,Average quality,2025-12-15
+101927,LG,Electronics,4.0,Stopped working quickly,2025-11-14
+101928,Dell,Fashion,3.6,Average quality,2025-12-09
+101929,Dell,Home,3.3,Very disappointed,2025-12-13
+101930,Apple,Fashion,3.4,Worth the money,2025-11-17
+101931,Sony,Appliances,3.1,Product is okay,2025-12-25
+101932,Apple,Electronics,5.0,Meets expectations,2025-12-13
+101933,Apple,Home,3.6,Worth the money,2025-11-15
+101934,Apple,Fashion,4.2,Very disappointed,2025-12-08
+101935,Boat,Electronics,3.5,Stopped working quickly,2025-11-08
+101936,Samsung,Appliances,3.3,"Excellent product, very satisfied",2025-12-23
+101937,Sony,Appliances,4.7,Highly recommended,2025-10-29
+101938,Nike,Electronics,4.0,Stopped working quickly,2025-12-12
+101939,Dell,Appliances,4.9,Stopped working quickly,2025-11-19
+101940,HP,Home,4.2,Bad experience,2025-12-24
+101941,Nike,Appliances,4.3,Highly recommended,2025-11-17
+101942,Samsung,Fashion,3.7,Meets expectations,2025-11-25
+101943,LG,Home,3.4,Meets expectations,2025-12-14
+101944,HP,Fashion,2.7,Works perfectly,2025-11-05
+101945,Apple,Home,4.9,Works perfectly,2025-12-17
+101946,HP,Electronics,3.0,Meets expectations,2025-12-05
+101947,Dell,Appliances,4.5,Stopped working quickly,2025-11-22
+101948,Puma,Home,4.7,Average quality,2025-12-04
+101949,Samsung,Fashion,4.7,"Not bad, not great",2025-10-28
+101950,Puma,Electronics,5.0,Very disappointed,2025-12-07
+101951,Apple,Fashion,4.3,Worth the money,2025-12-24
+101952,LG,Appliances,4.4,Not worth the price,2025-12-22
+101953,Apple,Appliances,4.9,Quality is really good,2025-11-29
+101954,Puma,Fashion,3.3,Quality is really good,2025-11-03
+101955,Nike,Home,4.0,Very disappointed,2025-12-01
+101956,HP,Fashion,2.9,Poor quality,2025-12-07
+101957,Apple,Electronics,4.4,Very disappointed,2025-11-10
+101958,Sony,Fashion,4.4,"Not bad, not great",2025-12-17
+101959,Apple,Fashion,3.3,Poor quality,2025-11-04
+101960,Sony,Appliances,4.9,Bad experience,2025-12-22
+101961,HP,Fashion,3.1,Average quality,2025-11-07
+101962,Puma,Home,2.8,Poor quality,2025-11-24
+101963,Nike,Electronics,3.3,"Excellent product, very satisfied",2025-12-14
+101964,Samsung,Appliances,4.8,Product is okay,2025-11-24
+101965,Dell,Electronics,4.7,Meets expectations,2025-10-27
+101966,Nike,Appliances,2.8,Stopped working quickly,2025-10-31
+101967,LG,Home,4.9,"Excellent product, very satisfied",2025-12-22
+101968,Dell,Electronics,4.7,Product is okay,2025-12-16
+101969,Apple,Electronics,4.3,Stopped working quickly,2025-11-16
+101970,Dell,Appliances,3.6,Average quality,2025-10-31
+101971,Dell,Fashion,2.7,Meets expectations,2025-11-23
+101972,Samsung,Home,2.9,Stopped working quickly,2025-12-13
+101973,Dell,Appliances,2.9,Quality is really good,2025-12-04
+101974,Boat,Appliances,3.4,Meets expectations,2025-12-09
+101975,Dell,Home,3.3,Not worth the price,2025-12-20
+101976,Dell,Fashion,4.2,Works perfectly,2025-11-24
+101977,Samsung,Fashion,3.1,Decent for the price,2025-11-18
+101978,LG,Appliances,3.8,Highly recommended,2025-12-15
+101979,Boat,Fashion,3.6,Poor quality,2025-12-14
+101980,Samsung,Fashion,3.7,Average quality,2025-11-20
+101981,Sony,Home,4.7,Worth the money,2025-12-05
+101982,Boat,Appliances,3.7,Poor quality,2025-12-13
+101983,Apple,Fashion,5.0,Decent for the price,2025-12-24
+101984,LG,Home,3.2,Meets expectations,2025-12-17
+101985,Nike,Fashion,4.5,"Excellent product, very satisfied",2025-12-17
+101986,Puma,Appliances,2.8,Stopped working quickly,2025-10-26
+101987,Apple,Home,3.7,Very disappointed,2025-12-04
+101988,Apple,Appliances,2.6,Highly recommended,2025-11-01
+101989,Sony,Fashion,4.9,Quality is really good,2025-11-06
+101990,Puma,Electronics,2.8,Highly recommended,2025-12-05
+101991,Puma,Appliances,3.5,Decent for the price,2025-11-06
+101992,Puma,Fashion,3.2,Not worth the price,2025-12-10
+101993,Dell,Electronics,4.6,Quality is really good,2025-11-04
+101994,Nike,Electronics,3.5,Product is okay,2025-12-14
+101995,LG,Fashion,4.3,Highly recommended,2025-11-15
+101996,Samsung,Appliances,2.6,Bad experience,2025-11-21
+101997,Puma,Electronics,4.7,Highly recommended,2025-12-14
+101998,Sony,Fashion,4.4,Meets expectations,2025-11-12
+101999,Dell,Home,2.8,"Excellent product, very satisfied",2025-12-05
+102000,Puma,Electronics,2.7,Product is okay,2025-12-20
